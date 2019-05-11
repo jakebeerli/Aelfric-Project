@@ -1,0 +1,377 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI>
+  <teiHeader>
+    <!-- bibliographic, technical, cataloguing information, etc. NOT the main text, but essential for a valid TEI document -->
+    <fileDesc>
+      <!-- a general heading -->
+      <titleStmt>
+        <title/>
+          <!-- this is the title of the digital document, not the original text -->
+        <principal/>
+        <respStmt>
+          <!-- the responsibility statement allows specification of jobs and those who did them -->
+          <resp/>
+          <name/>
+          <!-- Other instructors go here -->
+        </respStmt>
+        <respStmt>
+          <resp>Manuscription description, transcription and markup by</resp>
+          <name/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <!-- this tells you who is publishing the digital version -->
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- this tells you about the origial that is being encoded here -->
+        <msDesc>
+          <!-- this is vital for MSS markup; it contains the information usually found in catalogue entries and edition front matter -->
+          <msIdentifier>
+            <!-- This is  the information required to identify the manuscript being described -->
+            <settlement/>
+            <repository/>
+            <idno/>
+          </msIdentifier>
+          <head>
+            <!-- basic statement about the MSS goes here -->
+          </head>
+          <msContents>
+            <summary>
+              <!-- what is in the MS in terms of texts and sections -->
+            </summary>
+            <textLang>
+              <!-- languages -->
+            </textLang>
+          </msContents>
+          <physDesc>
+            <!-- elements of the physical description of the MS -->
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <!-- description of support (Note this may contain many elements) -->
+                  <p/>
+                </support>
+                <extent>
+                  <!-- description of size -->
+                </extent>
+                <condition>
+                  <p>
+                    <!-- description of damage, etc -->
+                  </p>
+                </condition>
+              </supportDesc>
+              <layoutDesc>
+                <layout>
+                  <!-- how text is laid out on the page, including information about any ruling, pricking -->
+                </layout>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc>
+              <ab>
+                <!--a description of the writing in the manuscript -->
+              </ab>
+            </handDesc>
+            <decoDesc>
+              <p>
+                <!-- description of the decoration in the MS -->
+              </p>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <!-- this tells you the origin and provenance of the MS -->
+            <summary/>
+            <origin>
+              <!-- origin goes here -->
+            </origin>
+            <provenance>
+              <!-- provenance goes here -->
+            </provenance>
+          </history>
+          <additional>
+            <listBibl>
+              <bibl/>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <!-- This contains information about the editorial and encoding practices -->
+      <projectDesc>
+        <p>
+          <!-- goals of the project -->
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          <!-- editorial practices -->
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- Marked up text of the roll goes here -->
+      <div type="sermon">
+        <head xml:lang="la">
+          <num val="8">
+            <choice>
+              <orig>.UIII.</orig>
+              <reg>.VIII.</reg>
+            </choice>
+          </num>
+          <choice>
+            <abbr>KL</abbr>
+            <expan>KALENDAS</expan>
+          </choice>
+          <choice>
+            <abbr>IAN<macron/></abbr>
+            <expan>IANUARII</expan>
+          </choice>
+          . NATIVITAS
+          <choice>
+            <abbr>DN<macron/>I</abbr>
+            <expan>DOMINI</expan>
+          </choice>
+          <choice>
+            <abbr>NR<macron/>I</abbr>
+            <expan>NOSTRI</expan>
+          </choice>
+          <choice>
+            <abbr>INU<macron/></abbr>
+            <expan>IESU</expan>
+          </choice>
+          <choice>
+            <abbr lang="GK">XP<macron/>I</abbr>
+            <expan>CHRISTI</expan>
+          </choice>
+        </head>
+      </div>
+      <div>
+        <ab>
+            <hi rend="orncap" quantity="3" unit="lines">M</hi>
+            <decoDesc>
+              <decoNote type="initial">
+                <p>One 3 line ornamented capital with a further four-line tail commencing the sermon.
+              </p>
+            </decoNote>
+            </decoDesc>
+            <!-- lines 1-30 need style formatting -->
+            <!-- text is in small caps --><!-- e -->n ða leofestan hwilon ær we sædon eow hy ure
+            <lb/>hælend crist on þisum dæge on soðre menniscnysse acen
+            <lb/>ned wæs of þæm halgan mædene marian. Nu wylle we
+            <lb/>swaþeah for ðyses dæges mærðe eower mód mid þære gast
+            <lb/>lican lare onbryrdan eow tó blisse þurh gód. Sume gedwól
+            <lb/>ménn wæron þuruh deoful beswicane <!-- thorn-with-stroke abbreviation; nonstandard spacing --> swa þæt hí cwædon þǽt
+            <lb/>crist godes sunu nære æfre mid þam halgan fæder wu
+            <lb/>niende. ác wære súm tíma. ær þan <!-- nonstandard spacing --> þe hé acenned wære. ac
+            <lb/><!-- thorn-with-stroke --> þæt halige godspéll hæfð oferswiðod swylcera gedwolena
+            <lb/>andgit foroft. <!-- nonstandard spacing --> Þa iudeiscan axodon crist hwæt he wære.
+            <lb/>Ða andwyrde he him þus. Ego súm <choice>
+              <abbr>principiu<macron/></abbr>
+              <expan>principium</expan>
+            </choice>. qui <choice>
+              <abbr>et</abbr><!--note: ampersand must use unicode codepoint -->
+              <expan>et</expan>
+            </choice> lo
+            <lb/>quor uobis. Ic eom angínn. þe eow to spræce. <!-- nonstandard spacing --> Nu ge habbað
+            <lb/>gehered <!-- nonstandard spacing --> hu se hælend be him sylfum sprǽc. <!-- thorn-with-stroke; nonstandard spacing --> þæt hé is ordfru
+            <lb/>ma. <!-- tironian mark --> and angin ealra þinga. mid his heofonlican fæder. <!-- tironian mark --> and mid þam halgan gaste. Se fæder is ángin. <!-- tironian mark --> and se sunu ís angin.
+            <lb/><!-- tironian mark --> and se halga gást ís angin. ác hí <!-- nonstandard spacing --> ne synd na þreo anginnu. ác
+            <lb/>hí ealle þry synden án angin. <!-- tironian mark --> and án ælmihtig god æfre ún
+            <lb/>begunnen. <!-- tironian mark --> and úngeændod. <!-- nonstandard spacing --> ac se man wǽt þe wyle habban ænig
+            <lb/>þincg ǽr anginne. forþan <!-- nonstandard spacing --> ðe seo halige þrynnes. is an
+            <lb/>ginn. <!--tironian mark --> and <!--nonstandard spacing --> án scyppend ealra gesceafta <!-- tironian mark --> and nan þing næs ne
+            <lb/>nys wuniende. <!-- nonstandard spacing --> þe se an wyrhta <!-- nonstandard spacing --> ne gesceope; Gif hwylc
+            <lb/>gedwola. oððe awoffod man. wyle furðor smeagen <!-- tironian mark --> and þæt
+            <lb/>anginn oferstígan. mid dysilicere dyrstignesse. <choice>
+              <abbr>þonn<macron/></abbr>
+              <expan>þonne</expan>
+            </choice>
+            <lb/>bið he þam men gelíc <!-- nonstandard spacing --> þe arærþ sume heage hlæddre. <!-- tironian mark --> and
+            <lb/>stihð <!-- nonstandard spacing --> be þære hlæddre stapum. <!-- thorn-with-stroke --> oðþæt he <!-- nonstandard spacing --> to ðæm ænde be
+            <lb/>cume. <!-- tironian mark --> and wylle <choice>
+              <abbr>þonn<macron/></abbr>
+              <expan>þonne</expan>
+            </choice> git stígan ufor. astihð <choice>
+              <abbr>þonn<macron/></abbr>
+              <expan>þonne</expan>
+            </choice> buton
+            <lb/><choice>
+              <abbr>stapu<macron/></abbr>
+              <expan>stapum</expan>
+            </choice>. oðþæt he stedeleas fylþ mid mycclum wyrsan
+            <lb/>fylle <!-- nonstandard spacing --> swa he furðor stáh. Ðreo þing synd on middan
+            <lb/>earde. án is <!-- hwilwendlic -->. þe hæfð ægðer ge <choice>
+              <abbr>ordfru<macron/>man</abbr>
+              <expan>ordfrumman</expan>
+            </choice>
+          <!-- lines 31-60 currently missing, contact Myles -->
+          <!-- lines 61-90, pending review -->
+            <lb/>Sume syndan creopende on eorðan. mid eallum licho
+            <lb/>man. swá swá wurmas doð. Sume gað on twam fotum.
+            <lb/>sume on feower fotum. Sume fleoð mid fyðerum. Sume
+            <lb/>on flodum swimmað.  and hí ealle swaþæh alotene beoð
+          <pb/>
+            <lb/>to þære eorðanweard. and þider wilniað. oððe þæs þe him lyst.
+            <lb/>oððe þæs þe hí beþurfon. ác se mán ana gæð úprihte.
+            <lb/>þæt getacnað. þæt hé sceall má þæncan úpp. þonne nyðer.
+            <lb/>þe lǽs þe þæt mód sy neoðer. þonne se lichoma. and he sceal smea
+            <lb/>gen embe þæt æce líf. þe hé to gesceapen wæs. Swiðor þonne embe
+            <lb/>þa eorðlican þing. swá swá hís wæstm him gebicnað.
+            <lb/>Ealle þás gesceafta habbað anginn. and sume eac en
+            <lb/>de swá swá we ǽr cwǽdon. ác se soða scyppend. Næfð
+            <lb/> nán angin. for ðan þe he ís him sylf angin. na gescea
+            <lb/>pen. ne geworht. Se geworhte ealle þing. and wunað. á.
+            <lb/>ón ǽcnysse. Hine ne mihte nán þing gewyrcean.
+            <lb/>for ðon þe nán þing næs ær hé. and gif hé geworht wære
+            <lb/>ne wurde hé næfre ælmihtig god. $ft gif hwylc ge
+            <lb/><!-- e -->wytleas man. wenð þæt he hine sylfne geworhte. Þonne
+            <lb/>axie wé hú hé mihte hine sylfne gewyrcean gif hé
+            <lb/>ǽr nés. He wǽs æfre úngeworht. and æfre wunað un
+            <lb/>geændod. His we magon wundrian. and wé ne magon.
+            <lb/>ne ne motan. ná furðor embe þis smeagen. gif we
+            <lb/>nellað us sylfe forpæran. Seo sunne þe onliht
+            <lb/>ealne mideard ís godes gesceaft. and we magon un
+            <lb/>derstandan þæt hyre leoht ís of hyre. ná heo of þam
+            <lb/>leohte. and seo hætu gæð of þære sunnan. and of hire leoh
+            <lb/>te gelíce. Swá eac þæs ælmihtigan godes sunu ís
+            <lb/>æfre of þæm fæder acenned. soð leoht. and  soð wisdom.
+            <lb/>and se halga gast ís æfre of him bam. na acenned.
+            <lb/>ác forðsteppende. and sé sunu ána. underfæng men
+          <!-- lines 91-120, pending review -->
+            <lb/>niscnysse. and on þisum dege wearð to menn geboren.
+            <lb/>to þí þæt he wolde ús to hís ríce gefæccan. Nis na
+            <lb/>num menn on ðisum deadlican life libbendum nanes
+            <lb/>þinges. swa mycel neod. swa him bið þæt he cunne þonne
+            <lb/>ælmihtigan god mid geleafan. and siþþan his agene
+            <lb/>sawle. We habbað eow oft gesæd eowerne geleafan
+          <pb/>
+            <lb/>be þære halgan ðrynnysse. Nu wylle wé eow sum þing
+            <lb/>be eowre sawle sæccgan. sceortlice gif wé magon.
+            <lb/>Ealle þa geleaffullan fæderas þe godes lare awri
+            <lb/>ton. sædon untwylice. and geþwærlehton on þam anum.
+            <lb/>þæt god gescypð ælces mannes sawle. and seo sawl nis
+            <lb/>na of godes agenum gecynde. Gif heo wære of go
+            <lb/>des gecynde genumen. witodlice ne mihte heo sin
+            <lb/>gian. Þam men ís gecyndelic þæt hé lufige þæt þæt gód
+            <lb/>is. Hwæt is gód butan gode anum se þe is healic
+            <lb/>godnisse. butan þam ne mæg nan man nan þing
+            <lb/>godes habban. Ðas godnysse we sceolan simble
+            <lb/>lufian þe ús ælc gód ofcymþ. ac þissere godnysse
+            <lb/>lufu ne mæg beon butan on þære sawle. and seo án
+            <lb/>sawul ís æðelboren þe ðonne lufað þe heo fram com.
+            <lb/>þe hí þyllice gescéop þæt heo on hire andgyte habban
+            <lb/>mihte godes ánlicnesse. and gelicnysse. and þæs wyrðe
+            <lb/>wære'. þæt hyre gód onwunode. Uþwytan sæcgað. þæt
+            <lb/>þære sawle gecynd ís ðryfeald. An dǽl is on hire
+            <lb/>gewylnigendlic. oðer yrsigendlic. þrydde gescead
+            <lb/>wislic. Twægen þissera dæla habbað deor and nytenu
+            <lb/>mid ús. þæt ís gewylnunge and yrre. Se man ana hæfð
+            <lb/>gescéad. and rǽd. and andgit. Gewylnung is þam menn
+            <lb/>forgifen to gewilnienne þa ðing þe him fremiað
+            <lb/>to  nitwyrðum þingum and to þære ecan hæle. Þonne gif
+          <!-- lines 121-150, needs style formatting, page break check -->
+            <lb/>seo gewylnung miswent. þonne acenð he gyfernysse.
+          <pb/>
+            <lb/>and forlygr. and gitsunge. Yrre is ðære sawle forgi
+            <lb/>fen. to ðy þæt heo yrsige ongean leahtres. and ne beo
+            <lb/>na synnum underþeodd. for þan ðe crist cwæð.
+            <lb/>ælc þæra þe synna wyrcð. is þæra synna ðeow. Gif
+            <lb/>þæt yrre bið on yfel awend. þonne cymð of þam unrot
+            <lb/>nisse. and æmylnysse. Gescead is ðære sawle forgi
+            <lb/>fen to gewyssiene and to styrenne hire agen lif.
+            <lb/>and ealle hire dæda. Of þam gesceade gif hit miswænt. cymð
+            <lb/>modignysse and ydelgylp. Gescead wexð on cildrum na seo
+            <lb/>sawul. and seo sawul þihþ on mægenum. and ne bið na mare þonne
+            <lb/>heo æt fruman wæs ac bið betere ne heo `ne' underfæhð li
+            <lb/>chomlice mycelnysse. Seo sawul hæfð swa swa we ær
+            <lb/>cwædon on hire gecynde. þære halgan þrynnysse
+            <lb/>anlicnysse. on þan þe heo hæfð gemynd. and andgit.
+            <lb/>and wyllan. An sawul is. and an lif. and an edwist. Þe þas ðreo
+            <lb/>þing hæfð on hire. and þas ðreo þing na synd na ðreo
+            <lb/>lif ac an. ne þreo ædwiste ac an. | Seo sawul.
+          <pb/>
+            <lb/>lif. oððe seo ædwist. synd gecwædene to hyre sylfra.
+            <lb/>and þæt gemynd. oððe þæt andgit. oþþe seo wylla. Beoð gecwæ
+            <lb/>dene to sumum þinga. edlesendlice. and þas ðreo þing
+            <lb/>habbað annysse him betwynan. Ic undergyte. þæt
+            <lb/>ic wylle undergytan and gemunan. and ic wylle þæt ic under
+            <lb/>gyte and gemune. þær þær þæt gemynd bið. þær bið þæt and
+            <lb/>gyt and se wylla. Uton nu behealden þa wundorlican
+            <lb/>swyftnysse þære sawle. heo hæfð swa mycele swyft
+            <lb/>nysse þæt heo on anre tide gif heo swa wyle. besceawað
+            <lb/>heofonan and ofer sǽ flyhð. land. and burga geondfærð.
+            <lb/>and ealle þas þing mid geþohte on hire sihðe gesæt.
+            <lb/>and swa hraðe swa heo gehyrð þære burge naman.
+          <!-- lines 151-179, style formatting and page breaks needed -->
+            <lb/>þe heo ǽr cuðe. swá hraðe heo mæg þa burh on hire
+            <lb/>geþohte gescyppan hwylc heo bið. Eal swá be gehwyl
+            <lb/>cum oðrum þingum þe heo ǽr cuþe. oððe ne cuðe.
+            <lb/>heo mæg on hire mode gescyppan. þonne heo gehyrð
+            <lb/>be þam spræcan. And swá styrigende ís seo sawul. þæt heo
+            <lb/>furðon ón slæpe ne gestylþ. ac ðonne hé smeað be ro
+            <lb/>me byrig ne mæg heo þá hwíle smeagen be hieru
+            <lb/>salém. oððe þonne heo smeað be anum þing. ne mæg
+            <lb/>heo þa hwyle be oðrum þinge smeagen. ác bið gebys
+            <lb/>god mid þam anum ðinge oðþæt þæt geþoht gewyte.
+            <lb/>and oðer cume. Witodlice god ælmihtig wát ealle þing togæ
+            <lb/>dere. and ealle þing hæfð on his andwerdnysse. and hí æfre
+            <lb/>beoþ ón his gesihþe. and næfre him úncuþe. and þis ís þæt
+            <lb/>gecwæden ís þæt god ís æghwǽr eall. for ðan ðe ealle þing
+            <lb/>þe æfre wæron oððe nú synd. oþþe ða þe towearde synd.
+            <lb/>ealle hí synd on godes gesihðe. anwearde. na ǽne. ác
+            <lb/>æfre. Seo sawul soðlice ís þæs lichoman líf. and þære
+            <lb/>sawle líf ís god. Gif seo sawul forlæt þonne lichoman
+            <lb/>þonne swælt seo lichoma. and gif god forlæt þa sawle for
+            <lb/>ormættum synnum. þonne swælt heo on þam sælran dæle
+            <lb/>swá þæt heo bið forloren þam æcan life. and swáþeah
+            <lb/>næfre ne geændað on þam æcum wytum. Þæs dæð hire
+            <lb/>gelimpð. gif heo læt rixian on hire þá gewilnunge
+            <lb/>and þæt yrre. swiðor þonne þæt gescead þe hí gewysigen sceall
+            <lb/>to weldædum. á. Ðuruh þæt gescead ána we synd sæl
+            <lb/>ran þonne þa ungesceadwysan nytenu. Mid twam
+            <lb/>wurðscipum geglængde se ælmihtiga scyppend þæs
+            <lb/>mannes sawle. þæt ís mid æccnysse. and eadignysse.
+            <lb/>Ac heo forleas þa ædignysse þa ða hé agylte. and heo
+          <!-- lines 180-210, style formatting needed -->
+            <lb/>ne mihte þa æcnysse forleosan. for ðan þe heo
+            <lb/>ne geændað næfre. Þære sawle wlyte is. <!-- þæt --> heo hæb
+            <lb/>be mihte. swa <!-- þæt --> heo leahtres forbúge. <!-- and --> heo bið atelic
+            <lb/>þurh leahtras gif he him underlið. Ðære sawle
+            <lb/>mihta syndon þas feower fyrmestan. and sælestan. pru
+            <lb/>dentia <!-- þæt --> is snoternysse. þurh þa heo sceal hyre scip
+            <lb/>pend understandan. and hine lufian. <!-- and --> tosceaden god
+            <lb/><!-- fra[m] --> yfele. Oðer mægen is. <!-- Iustitia -->. <!-- þæt --> is rihtwisnys
+            <lb/>þurh <!-- þa inserted by transcription --> heo sceal god wurðigan. <!-- and --> rihtlice libban. Þæt
+            <lb/>ðrydde mægen is. temperatia. <!-- þæt --> is gemetegung. mid
+            <lb/>þære sceall seo sawul ealle þing gemætegian. <!-- þæt --> hit
+            <lb/>to swiþe <!-- ne sy -->. <!-- ne to --> hwonlice. for ðan þe hit is awry
+            <lb/>ten. <!-- Omnia nimia nocent -->. <!-- þæt --> is ealle oferdone
+          <pb/>
+            <lb/>þing <!-- dæriað -->. <!-- Witto -->lice gemetgung is eallra mæge
+            <lb/>na <!-- modor. --> þæt feorðe mægen is. <!-- Fortitudo -->. <!-- þæt --> is <!-- strænð -->
+            <lb/>oððe anr<!-- æ -->nyss. þurh þa sceal seo sawul forbæ
+            <lb/>ran <!-- earf -->oðnysse mid andrædum mode. for godes
+            <lb/>lufan. <!-- and --> næfre þam deofle ne abugan to forwyrde.
+            <lb/>Ðas feower mægenu habbbað ænne kynehelm. <!-- þæt --> is
+            <lb/>seo soðe lufu<!-- . --> godes. <!-- and --> manna. for ðan þe seo sawul
+            <lb/>is gesælig <!-- . --> ðe þon<!-- n --> scyppend lufað <!-- þe hi --> gesceop.
+            <lb/><!-- and --> gefæran. <!-- and --> <!-- wyle --> him fremian swa heo fyrmest
+            <lb/>mæge. Seo sawul is gesceadwis gast. æfre cucu
+            <lb/><!-- and --> mæg underfon ge godne wyllan. <!-- and --> yfelne<!-- . --> æfter
+            <lb/>agenu<!-- m --> cyre. Se <!-- welwillende --> scyppend læt hi hab
+            <lb/>ben agenes cyres geweald. þa wearð heo <!-- be agenum -->
+            <lb/>wyl<!-- l -->lan gewæmmed þurh þæs deofles lare. Heo
+            <lb/>wærð æft alysad þuruh godes <!-- gife -->. gif heo <!-- gode -->
+            <lb/>gehyrsumað. Heo is <!-- ungesæwenlic -->. <!-- and --> unlicho<!-- m -->
+            <lb/>lic. butan hæv<!-- e --> <!-- . --> <!-- and --> butan bleo. mid þam licha
+            <lb/>man befangen. <!-- and --> on eallu<!-- m --> limu<!-- m --> wunigende. Ne
+          <!-- remaining lines (>211) not yet transcribed -->
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>
