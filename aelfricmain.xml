@@ -159,18 +159,18 @@
 						<p>One 3 line ornamented capital with a further four-line tail commencing the sermon.</p>
 					</decoNote>
 				</decoDesc>
-            <!-- lines 1-30 need style formatting -->
-            <!-- text is in small caps --><!-- e -->n ða leofestan hwilon ær we sædon eow hy ure
-            <lb n="2" />hælend crist on þisum dæge on soðre menniscnysse acen
-            <lb n="3" />ned wæs of þæm halgan mædene marian. Nu wylle we
-            <lb n="4" />swaþeah for ðyses dæges mærðe eower mód mid þære gast
-            <lb n="5" />lican lare onbryrdan eow tó blisse þurh gód. Sume gedwól
-            <lb n="6" />ménn wæron þuruh deoful beswicane <!-- thorn-with-stroke abbreviation; nonstandard spacing --> swa þæt hí cwædon þǽt
-            <lb n="7" />crist godes sunu nære æfre mid þam halgan fæder wu
-            <lb n="8" />niende. ác wære súm tíma. ær þan <!-- nonstandard spacing --> þe hé acenned wære. ac
-            <lb n="9" /><!-- thorn-with-stroke --> þæt halige godspéll hæfð oferswiðod swylcera gedwolena
-            <lb n="10" />andgit foroft. <!-- nonstandard spacing --> Þa iudeiscan axodon crist hwæt he wære.
-            <lb n="11" />Ða andwyrde he him þus. Ego súm
+			<!-- lines 1-30 need style formatting -->
+			<!-- text is in small caps --><!-- e -->n ða leofestan hwilon ær we sædon eow hy ure
+			<lb n="2" />hælend crist on þisum dæge on soðre menniscnysse acen
+			<lb n="3" />ned wæs of þæm halgan mædene marian. Nu wylle we
+			<lb n="4" />swaþeah for ðyses dæges mærðe eower mód mid þære gast
+			<lb n="5" />lican lare onbryrdan eow tó blisse þurh gód. Sume gedwól
+			<lb n="6" />ménn wæron þuruh deoful beswicane <!-- thorn-with-stroke abbreviation; nonstandard spacing --> swa þæt hí cwædon þǽt
+			<lb n="7" />crist godes sunu nære æfre mid þam halgan fæder wu
+			<lb n="8" />niende. ác wære súm tíma. ær þan <!-- nonstandard spacing --> þe hé acenned wære. ac
+			<lb n="9" /><!-- thorn-with-stroke --> þæt halige godspéll hæfð oferswiðod swylcera gedwolena
+			<lb n="10" />andgit foroft. <!-- nonstandard spacing --> Þa iudeiscan axodon crist hwæt he wære.
+			<lb n="11" />Ða andwyrde he him þus. Ego súm
 				<choice>
 					<abbr>principiu<macron/></abbr>
 					<expan>principium</expan>
@@ -181,24 +181,24 @@
 					<expan>et</expan>
 				</choice>
 				 lo
-            <lb n="12" />quor uobis. Ic eom angínn. þe eow to spræce. <!-- nonstandard spacing --> Nu ge habbað
-            <lb n="13" />gehered <!-- nonstandard spacing --> hu se hælend be him sylfum sprǽc. <!-- thorn-with-stroke; nonstandard spacing --> þæt hé is ordfru
-            <lb n="14" />ma. <!-- tironian mark --> and angin ealra þinga. mid his heofonlican fæder. <!-- tironian mark --> and mid þam halgan gaste. Se fæder is ángin. <!-- tironian mark --> and se sunu ís angin.
-            <lb n="15" /><!-- tironian mark --> and se halga gást ís angin. ác hí <!-- nonstandard spacing --> ne synd na þreo anginnu. ác
-            <lb n="16" />hí ealle þry synden án angin. <!-- tironian mark --> and án ælmihtig god æfre ún
-            <lb n="17" />begunnen. <!-- tironian mark --> and úngeændod. <!-- nonstandard spacing --> ac se man wǽt þe wyle habban ænig
-            <lb n="18" />þincg ǽr anginne. forþan <!-- nonstandard spacing --> ðe seo halige þrynnes. is an
-            <lb n="19" />ginn. <!--tironian mark --> and <!--nonstandard spacing --> án scyppend ealra gesceafta <!-- tironian mark --> and nan þing næs ne
-            <lb n="20" />nys wuniende. <!-- nonstandard spacing --> þe se an wyrhta <!-- nonstandard spacing --> ne gesceope; Gif hwylc
-            <lb n="21" />gedwola. oððe awoffod man. wyle furðor smeagen <!-- tironian mark --> and þæt
-            <lb n="22" />anginn oferstígan. mid dysilicere dyrstignesse. 
+			<lb n="12" />quor uobis. Ic eom angínn. þe eow to spræce. <!-- nonstandard spacing --> Nu ge habbað
+			<lb n="13" />gehered <!-- nonstandard spacing --> hu se hælend be him sylfum sprǽc. <!-- thorn-with-stroke; nonstandard spacing --> þæt hé is ordfru
+			<lb n="14" />ma. <!-- tironian mark --> and angin ealra þinga. mid his heofonlican fæder. <!-- tironian mark --> and mid þam halgan gaste. Se fæder is ángin. <!-- tironian mark --> and se sunu ís angin.
+			<lb n="15" /><!-- tironian mark --> and se halga gást ís angin. ác hí <!-- nonstandard spacing --> ne synd na þreo anginnu. ác
+			<lb n="16" />hí ealle þry synden án angin. <!-- tironian mark --> and án ælmihtig god æfre ún
+			<lb n="17" />begunnen. <!-- tironian mark --> and úngeændod. <!-- nonstandard spacing --> ac se man wǽt þe wyle habban ænig
+			<lb n="18" />þincg ǽr anginne. forþan <!-- nonstandard spacing --> ðe seo halige þrynnes. is an
+			<lb n="19" />ginn. <!--tironian mark --> and <!--nonstandard spacing --> án scyppend ealra gesceafta <!-- tironian mark --> and nan þing næs ne
+			<lb n="20" />nys wuniende. <!-- nonstandard spacing --> þe se an wyrhta <!-- nonstandard spacing --> ne gesceope; Gif hwylc
+			<lb n="21" />gedwola. oððe awoffod man. wyle furðor smeagen <!-- tironian mark --> and þæt
+			<lb n="22" />anginn oferstígan. mid dysilicere dyrstignesse. 
 				<choice>
 					<abbr>þonn<macron/></abbr>
 					<expan>þonne</expan>
 				</choice>
-            <lb n="23" />bið he þam men gelíc <!-- nonstandard spacing --> þe arærþ sume heage hlæddre. <!-- tironian mark --> and
-            <lb n="24" />stihð <!-- nonstandard spacing --> be þære hlæddre stapum. <!-- thorn-with-stroke --> oðþæt he <!-- nonstandard spacing --> to ðæm ænde be
-            <lb n="25" />cume. <!-- tironian mark --> and wylle 
+			<lb n="23" />bið he þam men gelíc <!-- nonstandard spacing --> þe arærþ sume heage hlæddre. <!-- tironian mark --> and
+			<lb n="24" />stihð <!-- nonstandard spacing --> be þære hlæddre stapum. <!-- thorn-with-stroke --> oðþæt he <!-- nonstandard spacing --> to ðæm ænde be
+			<lb n="25" />cume. <!-- tironian mark --> and wylle 
 				<choice>
 					<abbr>þonn<macron/></abbr>
 				<expan>þonne</expan>
@@ -209,14 +209,14 @@
 					<expan>þonne</expan>
 				</choice>
 				 buton
-            <lb n="26" />
+			<lb n="26" />
 				<choice>
 					<abbr>stapu<macron/></abbr>
 					<expan>stapum</expan>
 				</choice>
 				. oðþæt he stedeleas fylþ mid mycclum wyrsan
-            <lb n="27" />fylle <!-- nonstandard spacing --> swa he furðor stáh. Ðreo þing synd on middan
-            <lb n="28" />earde. án is <!-- hwilwendlic -->. þe hæfð ægðer ge 
+			<lb n="27" />fylle <!-- nonstandard spacing --> swa he furðor stáh. Ðreo þing synd on middan
+			<lb n="28" />earde. án is <!-- hwilwendlic -->. þe hæfð ægðer ge 
 				<choice>
 					<abbr>ordfru<macron/>man</abbr>
 					<expan>ordfrumman</expan>
