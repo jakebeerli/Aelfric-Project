@@ -112,388 +112,388 @@
 		</encodingDesc>
 	</teiHeader>
 	<text>
-    <body>
-      <!-- Marked up text of the roll goes here -->
-      <div type="sermon">
-        <head xml:lang="la">
-          <num val="8">
-            <choice>
-              <orig>.UIII.</orig>
-              <reg>.VIII.</reg>
-            </choice>
-          </num>
-          <choice>
-            <abbr>KL</abbr>
-            <expan>KALENDAS</expan>
-          </choice>
-          <choice>
-            <abbr>IAN<macron/></abbr>
-            <expan>IANUARII</expan>
-          </choice>
-          . NATIVITAS
-          <choice>
-            <abbr>DN<macron/>I</abbr>
-            <expan>DOMINI</expan>
-          </choice>
-          <choice>
-            <abbr>NR<macron/>I</abbr>
-            <expan>NOSTRI</expan>
-          </choice>
-          <choice>
-            <abbr>INU<macron/></abbr>
-            <expan>IESU</expan>
-          </choice>
-          <choice>
-            <abbr lang="GK">XP<macron/>I</abbr>
-            <expan>CHRISTI</expan>
-          </choice>
-        </head>
-      </div>
-      <div>
-        <ab>
-          <pb n="1" />
-			<lb n="1" />
-				<hi rend="orncap" quantity="3" unit="lines">M</hi>
-				<decoDesc>
-					<decoNote type="initial">
-						<p>One 3 line ornamented capital with a further four-line tail commencing the sermon.</p>
-					</decoNote>
-				</decoDesc>
-			<!-- lines 1-30 need style formatting -->
-			<!-- text is in small caps --><!-- e -->n ða leofestan hwilon ær we sædon eow hy ure
-			<lb n="2" />hælend crist on þisum dæge on soðre menniscnysse acen
-			<lb n="3" />ned wæs of þæm halgan mædene marian. Nu wylle we
-			<lb n="4" />swaþeah for ðyses dæges mærðe eower mód mid þære gast
-			<lb n="5" />lican lare onbryrdan eow tó blisse þurh gód. Sume gedwól
-			<lb n="6" />ménn wæron þuruh deoful beswicane <!-- thorn-with-stroke abbreviation; nonstandard spacing --> swa þæt hí cwædon þǽt
-			<lb n="7" />crist godes sunu nære æfre mid þam halgan fæder wu
-			<lb n="8" />niende. ác wære súm tíma. ær þan <!-- nonstandard spacing --> þe hé acenned wære. ac
-			<lb n="9" /><!-- thorn-with-stroke --> þæt halige godspéll hæfð oferswiðod swylcera gedwolena
-			<lb n="10" />andgit foroft. <!-- nonstandard spacing --> Þa iudeiscan axodon crist hwæt he wære.
-			<lb n="11" />Ða andwyrde he him þus. Ego súm
-				<choice>
-					<abbr>principiu<macron/></abbr>
-					<expan>principium</expan>
-				</choice>
-				. qui
-				<choice>
-					<abbr>et</abbr><!--note: ampersand must use unicode codepoint -->
-					<expan>et</expan>
-				</choice>
-				 lo
-			<lb n="12" />quor uobis. Ic eom angínn. þe eow to spræce. <!-- nonstandard spacing --> Nu ge habbað
-			<lb n="13" />gehered <!-- nonstandard spacing --> hu se hælend be him sylfum sprǽc. <!-- thorn-with-stroke; nonstandard spacing --> þæt hé is ordfru
-			<lb n="14" />ma. <!-- tironian mark --> and angin ealra þinga. mid his heofonlican fæder. <!-- tironian mark --> and mid þam halgan gaste. Se fæder is ángin. <!-- tironian mark --> and se sunu ís angin.
-			<lb n="15" /><!-- tironian mark --> and se halga gást ís angin. ác hí <!-- nonstandard spacing --> ne synd na þreo anginnu. ác
-			<lb n="16" />hí ealle þry synden án angin. <!-- tironian mark --> and án ælmihtig god æfre ún
-			<lb n="17" />begunnen. <!-- tironian mark --> and úngeændod. <!-- nonstandard spacing --> ac se man wǽt þe wyle habban ænig
-			<lb n="18" />þincg ǽr anginne. forþan <!-- nonstandard spacing --> ðe seo halige þrynnes. is an
-			<lb n="19" />ginn. <!--tironian mark --> and <!--nonstandard spacing --> án scyppend ealra gesceafta <!-- tironian mark --> and nan þing næs ne
-			<lb n="20" />nys wuniende. <!-- nonstandard spacing --> þe se an wyrhta <!-- nonstandard spacing --> ne gesceope; Gif hwylc
-			<lb n="21" />gedwola. oððe awoffod man. wyle furðor smeagen <!-- tironian mark --> and þæt
-			<lb n="22" />anginn oferstígan. mid dysilicere dyrstignesse. 
-				<choice>
-					<abbr>þonn<macron/></abbr>
-					<expan>þonne</expan>
-				</choice>
-			<lb n="23" />bið he þam men gelíc <!-- nonstandard spacing --> þe arærþ sume heage hlæddre. <!-- tironian mark --> and
-			<lb n="24" />stihð <!-- nonstandard spacing --> be þære hlæddre stapum. <!-- thorn-with-stroke --> oðþæt he <!-- nonstandard spacing --> to ðæm ænde be
-			<lb n="25" />cume. <!-- tironian mark --> and wylle 
-				<choice>
-					<abbr>þonn<macron/></abbr>
-				<expan>þonne</expan>
-				</choice>
-				 git stígan ufor. astihð
-				<choice>
-					<abbr>þonn<macron/></abbr>
-					<expan>þonne</expan>
-				</choice>
-				 buton
-			<lb n="26" />
-				<choice>
-					<abbr>stapu<macron/></abbr>
-					<expan>stapum</expan>
-				</choice>
-				. oðþæt he stedeleas fylþ mid mycclum wyrsan
-			<lb n="27" />fylle <!-- nonstandard spacing --> swa he furðor stáh. Ðreo þing synd on middan
-			<lb n="28" />earde. án is <!-- hwilwendlic -->. þe hæfð ægðer ge 
-				<choice>
-					<abbr>ordfru<macron/>man</abbr>
-					<expan>ordfrumman</expan>
-				</choice>
-          <!-- lines 31-60 pending review -->
-			<lb n="29" />ge ende. <!-- thorn-with-stroke --> þæt synd nytenu. <!-- tironian mark --> and ealle sawullease þing þe on
-			<lb n="30" />gunnan þa þa hí god gesceop. <!-- tironian mark --> and æft geændiað <!-- tironian mark --> and to nahte
-		  <pb n="2" />
-			<lb n="31" />gewurðaþ. Oðer þing ís éce. swa <!-- thorn-with-stroke --> þæt hit hæfð ordfruman.
-			<lb n="32" /><!-- tironian mark --> and næfð nenne ende. <!-- thorn-with-stroke --> þæt synd ænglas <!-- tironian mark --> and manna saula. þeon
-			<lb n="33" />gunnen ða þa hí god gesceop. ác hí ne geendiað næfre.
-			<lb n="34" />Ðridde þing ís æce. swá <!-- thorn-with-stroke --> þæt hit næfð naðor ne ordfruman
-			<lb n="35" />ne ende. <!-- thorn-with-stroke --> þæt ís se ána ælmihtiga god on þrynnesse. <!-- tironian mark --> and ón
-			<lb n="36" />annysse. æfre wuniende unasmeagendlic. <!-- tironian mark --> and unasæcgend
-			<lb n="37" />líc. Se fæder ís angin. of nanum oðrum. <!-- tironian mark --> and se sunu ís angin.
-			<lb n="38" />æfre of þæm fæder acenned. <!-- tironian mark --> and se halga gast ís angin.
-			<lb n="39" />æfre of þam fæder. <!-- tironian mark --> and of þam sunu. na acenned ác forð
-			<lb n="40" />stæppende. for ðan þe se sunu is þæs fæder wísdóm. of
-			<lb n="41" />him. <!-- tironian mark --> and mid him. <!-- tironian mark --> and se halga gast ís heora begra wylle.
-			<lb n="42" /><!-- tironian mark --> and lufu. of him bam. <!-- tironian mark --> and mid him bam. On ðisne enne god
-			<lb n="43" />wé sceolon geleafan. <!-- tironian mark --> and hine mid weorcum wurðian. forðan.
-			<lb n="44" />þe ealle þa halgan béc ægðer ge on þære ealdan. ǽ. ge
-			<lb n="45" />on þære níwan. soðlice sprecað be þere halgan ðryn
-			<lb n="46" />nysse. <!-- tironian mark --> and soðre annysse. Þæs án scyppend wát ealle
-			<lb n="47" />þing. <!-- tironian mark --> and gesihð ge <!-- thorn-with-stroke --> þæt gedón ís. ge <!-- thorn-with-stroke --> þæt þe nú ís. ge þæt ðe toweard
-			<lb n="48" />ís. ne he nán þing ne forgít. ne him nan þing ætfleon
-			<lb n="49" />ne mæg. Ne óndret he him nanes þinges. for ðan þe
-			<lb n="50" />he næfð nenne riccran. ne furðon nanne him gelic
-			<lb n="51" />ne. Symble he bið gyfende. <!-- tironian mark --> and he ne wanað swaþǽh nan
-			<lb n="52" />þing hís. ne him nanes þinges nis neodþearf. Symble
-			<lb n="53" />he bið ælmihtig gód. for ðan ðe he symble wyle gód.
-			<lb n="54" /><!-- tironian mark --> and næfre nán yfel. ác he hatað þá yfelwyrcendan. <!-- tironian mark --> and
-			<lb n="55" />þá unrihtwisan. Ðá gesceafta þe þæs án scyppend
-			<lb n="56" />gescéop synden mænigfealde. <!-- tironian mark --> and mislices hiwes. <!-- tironian mark --> and ún
-			<lb n="57" />gelíce farað. Sume sindon ungesewenlice gastas.
-			<lb n="58" />butan lichoman swá swá synd ænglas on heofonum.
-		  <!-- lines 61-90, pending review -->
-            <lb n="59" />Sume syndan creopende on eorðan. mid eallum licho
-            <lb n="60" />man. swá swá wurmas doð. Sume gað on twam fotum.
-            <lb n="61" />sume on feower fotum. Sume fleoð mid fyðerum. Sume
-            <lb n="62" />on flodum swimmað.  and hí ealle swaþæh alotene beoð
-          <pb n="3" />
-            <lb n="63" />to þære eorðanweard. and þider wilniað. oððe þæs þe him lyst.
-            <lb n="64" />oððe þæs þe hí beþurfon. ác se mán ana gæð úprihte.
-            <lb n="65" />þæt getacnað. þæt hé sceall má þæncan úpp. þonne nyðer.
-            <lb n="66" />þe lǽs þe þæt mód sy neoðer. þonne se lichoma. and he sceal smea
-            <lb n="67" />gen embe þæt æce líf. þe hé to gesceapen wæs. Swiðor þonne embe
-            <lb n="68" />þa eorðlican þing. swá swá hís wæstm him gebicnað.
-            <lb n="69" />Ealle þás gesceafta habbað anginn. and sume eac en
-            <lb n="70" />de swá swá we ǽr cwǽdon. ác se soða scyppend. Næfð
-            <lb n="71" /> nán angin. for ðan þe he ís him sylf angin. na gescea
-            <lb n="72" />pen. ne geworht. Se geworhte ealle þing. and wunað. á.
-            <lb n="73" />ón ǽcnysse. Hine ne mihte nán þing gewyrcean.
-            <lb n="74" />for ðon þe nán þing næs ær hé. and gif hé geworht wære
-            <lb n="75" />ne wurde hé næfre ælmihtig god. $ft gif hwylc ge
-            <lb n="76" /><!-- e -->wytleas man. wenð þæt he hine sylfne geworhte. Þonne
-            <lb n="77" />axie wé hú hé mihte hine sylfne gewyrcean gif hé
-            <lb n="78" />ǽr nés. He wǽs æfre úngeworht. and æfre wunað un
-            <lb n="79" />geændod. His we magon wundrian. and wé ne magon.
-            <lb n="80" />ne ne motan. ná furðor embe þis smeagen. gif we
-            <lb n="81" />nellað us sylfe forpæran. Seo sunne þe onliht
-            <lb n="82" />ealne mideard ís godes gesceaft. and we magon un
-            <lb n="83" />derstandan þæt hyre leoht ís of hyre. ná heo of þam
-            <lb n="84" />leohte. and seo hætu gæð of þære sunnan. and of hire leoh
-            <lb n="85" />te gelíce. Swá eac þæs ælmihtigan godes sunu ís
-            <lb n="86" />æfre of þæm fæder acenned. soð leoht. and  soð wisdom.
-            <lb n="87" />and se halga gast ís æfre of him bam. na acenned.
-            <lb n="88" />ác forðsteppende. and sé sunu ána. underfæng men
-          <!-- lines 91-120, pending review -->
-            <lb n="89" />niscnysse. and on þisum dege wearð to menn geboren.
-            <lb n="90" />to þí þæt he wolde ús to hís ríce gefæccan. Nis na
-            <lb n="91" />num menn on ðisum deadlican life libbendum nanes
-            <lb n="92" />þinges. swa mycel neod. swa him bið þæt he cunne þonne
-            <lb n="93" />ælmihtigan god mid geleafan. and siþþan his agene
-            <lb n="94" />sawle. We habbað eow oft gesæd eowerne geleafan
-          <pb n="4" />
-            <lb n="95" />be þære halgan ðrynnysse. Nu wylle wé eow sum þing
-            <lb n="96" />be eowre sawle sæccgan. sceortlice gif wé magon.
-            <lb n="97" />Ealle þa geleaffullan fæderas þe godes lare awri
-            <lb n="98" />ton. sædon untwylice. and geþwærlehton on þam anum.
-            <lb n="99" />þæt god gescypð ælces mannes sawle. and seo sawl nis
-            <lb n="100" />na of godes agenum gecynde. Gif heo wære of go
-            <lb n="101" />des gecynde genumen. witodlice ne mihte heo sin
-            <lb n="102" />gian. Þam men ís gecyndelic þæt hé lufige þæt þæt gód
-            <lb n="103" />is. Hwæt is gód butan gode anum se þe is healic
-            <lb n="104" />godnisse. butan þam ne mæg nan man nan þing
-            <lb n="105" />godes habban. Ðas godnysse we sceolan simble
-            <lb n="106" />lufian þe ús ælc gód ofcymþ. ac þissere godnysse
-            <lb n="107" />lufu ne mæg beon butan on þære sawle. and seo án
-            <lb n="108" />sawul ís æðelboren þe ðonne lufað þe heo fram com.
-            <lb n="109" />þe hí þyllice gescéop þæt heo on hire andgyte habban
-            <lb n="110" />mihte godes ánlicnesse. and gelicnysse. and þæs wyrðe
-            <lb n="111" />wære'. þæt hyre gód onwunode. Uþwytan sæcgað. þæt
-            <lb n="112" />þære sawle gecynd ís ðryfeald. An dǽl is on hire
-            <lb n="113" />gewylnigendlic. oðer yrsigendlic. þrydde gescead
-            <lb n="114" />wislic. Twægen þissera dæla habbað deor and nytenu
-            <lb n="115" />mid ús. þæt ís gewylnunge and yrre. Se man ana hæfð
-            <lb n="116" />gescéad. and rǽd. and andgit. Gewylnung is þam menn
-            <lb n="117" />forgifen to gewilnienne þa ðing þe him fremiað
-            <lb n="118" />to  nitwyrðum þingum and to þære ecan hæle. Þonne gif
-          <!-- lines 121-150, needs style formatting, page break check -->
-            <lb n="119" />seo gewylnung miswent. þonne acenð he gyfernysse.
-            <lb n="120" />and forlygr. and gitsunge. Yrre is ðære sawle forgi
-            <lb n="121" />fen. to ðy þæt heo yrsige ongean leahtres. and ne beo
-            <lb n="122" />na synnum underþeodd. for þan ðe crist cwæð.
-            <lb n="123" />ælc þæra þe synna wyrcð. is þæra synna ðeow. Gif
-            <lb n="124" />þæt yrre bið on yfel awend. þonne cymð of þam unrot
-            <lb n="125" />nisse. and æmylnysse. Gescead is ðære sawle forgi
-            <lb n="126" />fen to gewyssiene and to styrenne hire agen lif.
-          <pb n="5" />    
-			<lb n="127" />and ealle hire dæda. Of þam gesceade gif hit miswænt. cymð
-            <lb n="128" />modignysse and ydelgylp. Gescead wexð on cildrum na seo
-            <lb n="129" />sawul. and seo sawul þihþ on mægenum. and ne bið na mare þonne
-            <lb n="130" />heo æt fruman wæs ac bið betere ne heo `ne' underfæhð li
-            <lb n="131" />chomlice mycelnysse. Seo sawul hæfð swa swa we ær
-            <lb n="132" />cwædon on hire gecynde. þære halgan þrynnysse
-            <lb n="133" />anlicnysse. on þan þe heo hæfð gemynd. and andgit.
-            <lb n="134" />and wyllan. An sawul is. and an lif. and an edwist. Þe þas ðreo
-            <lb n="135" />þing hæfð on hire. and þas ðreo þing na synd na ðreo
-            <lb n="136" />lif ac an. ne þreo ædwiste ac an. | Seo sawul.
-            <lb n="137" />lif. oððe seo ædwist. synd gecwædene to hyre sylfra.
-            <lb n="138" />and þæt gemynd. oððe þæt andgit. oþþe seo wylla. Beoð gecwæ
-            <lb n="139" />dene to sumum þinga. edlesendlice. and þas ðreo þing
-            <lb n="140" />habbað annysse him betwynan. Ic undergyte. þæt
-            <lb n="141" />ic wylle undergytan and gemunan. and ic wylle þæt ic under
-            <lb n="142" />gyte and gemune. þær þær þæt gemynd bið. þær bið þæt and
-            <lb n="143" />gyt and se wylla. Uton nu behealden þa wundorlican
-            <lb n="144" />swyftnysse þære sawle. heo hæfð swa mycele swyft
-            <lb n="145" />nysse þæt heo on anre tide gif heo swa wyle. besceawað
-            <lb n="146" />heofonan and ofer sǽ flyhð. land. and burga geondfærð.
-            <lb n="147" />and ealle þas þing mid geþohte on hire sihðe gesæt.
-            <lb n="148" />and swa hraðe swa heo gehyrð þære burge naman.
-          <!-- lines 151-179, style formatting and page breaks needed -->
-            <lb n="149" />þe heo ǽr cuðe. swá hraðe heo mæg þa burh on hire
-            <lb n="150" />geþohte gescyppan hwylc heo bið. Eal swá be gehwyl
-            <lb n="151" />cum oðrum þingum þe heo ǽr cuþe. oððe ne cuðe.
-            <lb n="152" />heo mæg on hire mode gescyppan. þonne heo gehyrð
-            <lb n="153" />be þam spræcan. And swá styrigende ís seo sawul. þæt heo
-            <lb n="154" />furðon ón slæpe ne gestylþ. ac ðonne hé smeað be ro
-            <lb n="155" />me byrig ne mæg heo þá hwíle smeagen be hieru
-            <lb n="156" />salém. oððe þonne heo smeað be anum þing. ne mæg
-            <lb n="157" />heo þa hwyle be oðrum þinge smeagen. ác bið gebys
-            <lb n="158" />god mid þam anum ðinge oðþæt þæt geþoht gewyte.
-          <pb n="6" />
-			<lb n="159" />and oðer cume. Witodlice god ælmihtig wát ealle þing togæ
-            <lb n="160" />dere. and ealle þing hæfð on his andwerdnysse. and hí æfre
-            <lb n="161" />beoþ ón his gesihþe. and næfre him úncuþe. and þis ís þæt
-            <lb n="162" />gecwæden ís þæt god ís æghwǽr eall. for ðan ðe ealle þing
-            <lb n="163" />þe æfre wæron oððe nú synd. oþþe ða þe towearde synd.
-            <lb n="164" />ealle hí synd on godes gesihðe. anwearde. na ǽne. ác
-            <lb n="165" />æfre. Seo sawul soðlice ís þæs lichoman líf. and þære
-            <lb n="166" />sawle líf ís god. Gif seo sawul forlæt þonne lichoman
-            <lb n="167" />þonne swælt seo lichoma. and gif god forlæt þa sawle for
-            <lb n="168" />ormættum synnum. þonne swælt heo on þam sælran dæle
-            <lb n="169" />swá þæt heo bið forloren þam æcan life. and swáþeah
-            <lb n="170" />næfre ne geændað on þam æcum wytum. Þæs dæð hire
-            <lb n="171" />gelimpð. gif heo læt rixian on hire þá gewilnunge
-            <lb n="172" />and þæt yrre. swiðor þonne þæt gescead þe hí gewysigen sceall
-            <lb n="173" />to weldædum. á. Ðuruh þæt gescead ána we synd sæl
-            <lb n="174" />ran þonne þa ungesceadwysan nytenu. Mid twam
-            <lb n="175" />wurðscipum geglængde se ælmihtiga scyppend þæs
-            <lb n="176" />mannes sawle. þæt ís mid æccnysse. and eadignysse.
-            <lb n="177" />Ac heo forleas þa ædignysse þa ða hé agylte. and heo
-          <!-- lines 180-287, style formatting needed -->
-            <lb n="178" />ne mihte þa æcnysse forleosan. for ðan þe heo
-            <lb n="179" />ne geændað næfre. Þære sawle wlyte is. <!-- þæt --> heo hæb
-            <lb n="180" />be mihte. swa <!-- þæt --> heo leahtres forbúge. <!-- and --> heo bið atelic
-            <lb n="181" />þurh leahtras gif he him underlið. Ðære sawle
-            <lb n="182" />mihta syndon þas feower fyrmestan. and sælestan. pru
-            <lb n="183" />dentia <!-- þæt --> is snoternysse. þurh þa heo sceal hyre scip
-            <lb n="184" />pend understandan. and hine lufian. <!-- and --> tosceaden god
-            <lb n="185" /><!-- fra[m] --> yfele. Oðer mægen is. <!-- Iustitia -->. <!-- þæt --> is rihtwisnys
-            <lb n="186" />þurh <!-- þa inserted by transcription --> heo sceal god wurðigan. <!-- and --> rihtlice libban. Þæt
-            <lb n="187" />ðrydde mægen is. temperatia. <!-- þæt --> is gemetegung. mid
-            <lb n="188" />þære sceall seo sawul ealle þing gemætegian. <!-- þæt --> hit
-            <lb n="189" />to swiþe <!-- ne sy -->. <!-- ne to --> hwonlice. for ðan þe hit is awry
-            <lb n="190" />ten. <!-- Omnia nimia nocent -->. <!-- þæt --> is ealle oferdone
-          <pb n="7" />
-            <lb n="191" />þing <!-- dæriað -->. <!-- Witto -->lice gemetgung is eallra mæge
-            <lb n="192" />na <!-- modor. --> þæt feorðe mægen is. <!-- Fortitudo -->. <!-- þæt --> is <!-- strænð -->
-            <lb n="193" />oððe anr<!-- æ -->nyss. þurh þa sceal seo sawul forbæ
-            <lb n="194" />ran <!-- earf -->oðnysse mid andrædum mode. for godes
-            <lb n="195" />lufan. <!-- and --> næfre þam deofle ne abugan to forwyrde.
-            <lb n="196" />Ðas feower mægenu habbbað ænne kynehelm. <!-- þæt --> is
-            <lb n="197" />seo soðe lufu<!-- . --> godes. <!-- and --> manna. for ðan þe seo sawul
-            <lb n="198" />is gesælig <!-- . --> ðe þon<!-- n --> scyppend lufað <!-- þe hi --> gesceop.
-            <lb n="199" /><!-- and --> gefæran. <!-- and --> <!-- wyle --> him fremian swa heo fyrmest
-            <lb n="200" />mæge. Seo sawul is gesceadwis gast. æfre cucu
-            <lb n="201" /><!-- and --> mæg underfon ge godne wyllan. <!-- and --> yfelne<!-- . --> æfter
-            <lb n="202" />agenu<!-- m --> cyre. Se <!-- welwillende --> scyppend læt hi hab
-            <lb n="203" />ben agenes cyres geweald. þa wearð heo <!-- be agenum -->
-            <lb n="204" />wyl<!-- l -->lan gewæmmed þurh þæs deofles lare. Heo
-            <lb n="205" />wærð æft alysad þuruh godes <!-- gife -->. gif heo <!-- gode -->
-            <lb n="206" />gehyrsumað. Heo is <!-- ungesæwenlic -->. <!-- and --> unlicho<!-- m -->
-            <lb n="207" />lic. butan hæv<!-- e --> <!-- . --> <!-- and --> butan bleo. mid þam licha
-            <lb n="208" />man befangen. <!-- and --> on eallu<!-- m --> limu<!-- m --> wunigende. Ne
-            <lb n="209" />heo ne<!-- spacing -->mæg be<!-- spacing -->hyre agenre mihte of<!-- spacing -->þa<!-- m --> lichoman
-            <lb n="210" />gewytan. ne æft ongean cyrran. butan se<!-- spacing -->wylle þe<!-- spacing -->hi
-            <lb n="211" />geworhte. and on þonn<!-- e? --> lichaman asænde. Heo is on bocu<!-- m --> manegu<!-- m --> naman gecyged. be<!-- spacing -->hyre weorces þe<!-- - -->
-            <lb n="212" />nungum. Hyre nama is <!-- anima --> <!-- þæt -->is sawul <!-- and --> seo
-            <lb n="213" />nama gelympð to hire life. <!-- AND --> <!-- spiritu --> gast. belimpð
-            <lb n="214" />to hire ymb<!-- space? --> wlatunge. Heo is <!-- sensus -->. <!-- þæt --> is andgit.
-            <lb n="215" />oððe fel<!-- space? --> nyss. þonn<!-- e --> heo gefret. Heo is <!-- animus -->.
-            <lb n="216" /><!--þæt-->is mod. þonn<!-- e --> heo wat. Heo is <!-- mens -->. <!-- þæt --> is mod
-            <lb n="217" />þonn<!-- e --> heo under<!-- space? --> stent. Heo is <!-- memoria -->. <!-- þæt-->is ge<!-- - -->
-            <lb n="218" />mynd. þonn<!-- e --> heo gemanð. Heo is <!-- ratio -->. <!-- þæt --> is ge<!-- - -->
-            <lb n="219" />scead. þonn<!-- e --> heo to scæt. Heo is <!-- uoluntas -->. <!-- þæt --> is
-            <lb n="220" />wylla. þonn<!-- e --> heo hwæt wyle. Ac<!-- spacing -->swa<!-- space? --> þeah ealle
-            <lb n="221" />þas naman syndon sawul. ælc sawul is gast. ac
-          <pb n="8" />
-            <lb n="222" />swa<!-- space? --> þeah nis na ælc gast sawul. Se<!-- spacing -->apostol paulus
-            <lb n="223" />to<!-- space --> twæmde þæs gastes naman. <!-- and --> þæs modes þus cwæ<!-- - -->
-            <lb n="224" />ðende. <!-- Psalla spiritu psalla et mente -->. Þæt is on æn<!-- - -->
-            <lb n="225" />glisc. Ic singe mid gaste. <!-- and --> ic singe mid <!-- mode -->. Se
-            <lb n="226" />singð mid gaste. se<!-- spacing -->ðe clypað þa word mid muðe. <!-- and --> ne
-            <lb n="227" />under<!-- space? --> stænt þæs andgites getacnunge. <!-- and -->se <!-- singð --><!-- misspelling -->
-            <lb n="228" />mid mode se<!-- spacing -->ðe þæs andgites getacnunge understænt.
-            <lb n="229" />Seo sawul is þæs lichoman hlæfdige. <!-- and --> heo gewissað
-            <lb n="230" />þa fif andgitu þæs lichaman. swa swa of cyne<!-- - -->
-            <lb n="231" />sætle. þa andgitu sint gehatene þus. <!-- Yisus -->.
-            <lb n="232" /><!-- þæt --> is gesihð. <!-- auditus -->. hlyst. <!-- Gustus -->. swæc on þa<!-- m -->
-            <lb n="233" />muðe. <!-- Odoratus -->. stænc. on<!-- spacing -->þæra nosa. <!-- tactus -->.
-            <lb n="234" />hrepung. oððe <!-- grepung -->. on eallu<!-- m --> limum. ac<!-- spacing -->þeah ge<!-- - -->
-            <lb n="235" />wunelicost on<!-- spacing -->þam handu. Ðas fif andgitu gewis<!-- - -->
-            <lb n="236" />sæð seo sawul to<!-- spacing -->hire wyllan. <!-- and --> hyre gedafnað <!-- þæt --> heo 
-            <lb n="237" />swa<!-- spacing -->swa hlæfdige. geornlice foresceawige hwæt heo
-            <lb n="238" />gehwylcu<!-- m --> lime bebeode to donne. oððe hwæt heo ge<!-- - -->
-            <lb n="239" />hwylcu lime geþafige on<!-- spacing -->gewylnunge his gecyndes.
-            <lb n="240" /><!-- þæt --> þær nan<!-- spacing -->þing unþæslice ne<!-- spacing -->gelympe on nanes
-            <lb n="241" />limes þenunge. Swa swa god ælmihtig oferstihð
-            <lb n="242" />ealle gesceafta. swa ofer<!-- space? --> stihð seo sawul ealle
-            <lb n="243" />licha<!-- m -->lice gesceafta mid wurðfulnysse hyre ge<!-- - -->
-            <lb n="244" />cyndes. <!-- and --> nan lichamlic gesceaft ne<!-- spacing -->mæg beon hyre
-            <lb n="245" />wið<!-- space? --> meten. We cwæden ær <!-- þæt --> heo wære butan bleo.
-            <lb n="246" />for þan ðe heo nis na <!-- lic / licham written above -->. On<!-- spacing -->lichaman bið bleoh.
-            <lb n="247" /><!-- and -->seo sawul bið swa ge<!-- space? --> wlite<!-- spacing? -->god. swa heo on worulde
-            <lb n="248" />geearnode. Be þa<!-- m --> cwæþ crist on<!-- spacing -->his godspelle.
-            <lb n="249" /><!-- Tunc iusti fulgebunt sicut sol in regno patris -->
-            <lb n="240" /><!-- eorum -->. <!-- ÞÆT --> <!-- ys --> on ænglisc. þonn<!-- e --> scinað þa riht<!-- space? --> wisan swa
-            <lb n="241" />swa sunne on heora fader rice. Witodlice þa ar<!-- - -->
-            <lb n="242" /><!-- leasan beoð heora yfelum weorcum gelice. --> Nis <!-- seo -->
-            <lb n="243" />orþung þe we ut blawaþ. <!-- and -->in ateoð oððe ure<!-- --> sawul
-          <pb n="9" />
-            <lb n="244" />ac is seo lyft þe ealle lichamlice þing on<!-- spacing -->lybbað. butan
-            <lb n="245" />fi<!-- x -->um anu<!-- m --> þe on flodu<!-- m --> lybbað. Oft bið seo sawul on anu<!-- m -->
-            <lb n="246" />þinge. oððe on anum geþohte. swa bysig <!-- þæt -->heo ne gymð hwa
-            <lb n="247" />hyre gehende bið. þeah<!-- spacing -->ðe<!-- spacing -->heo on locie. ne<!-- spacing -->þeah heo sume
-            <lb n="248" />stemne gehyre. heo hit ne<!-- spacing -->understent. ne<!-- spacing -->þeah hi hwa hrep<!-- - -->
-            <lb n="249" />pe heo hit ne<!-- spacing -->gefret. Hwilon heo besargað hyre licho<!-- - -->
-            <lb n="250" />man sarnissa. hwilon heo gladað on<!-- spacing -->godu<!-- m --> gelimpu<!-- m -->. hwi<!-- - -->
-            <lb n="251" />lon heo þæncð þa<!-- spacing -->ðing þe<!-- spacing -->heo ær cuðe. hwilon heo wyle
-            <lb n="252" />wytan þa<!-- spacing -->ðing þe<!-- spacing -->heo ær ne cuðe. Sume þing heo wyle.
-            <lb n="253" />sume ðing heo nele. <!-- and -->ealle lichamlicra þinga hiw heo
-            <lb n="254" />mæg on hyre sylfre gehiwian. <!-- and -->swa gehiwode on<!-- spacing -->hyre
-            <lb n="255" />mode gehealden. Ðære sawle wlyte is <!-- þæt --> heo wisdom
-            <lb n="256" />lufie. na<!-- spacing -->ðone eorðlican wisdom be<!-- spacing -->þa<!-- m --> þe<!-- spacing -->þus awriten is.
-            <lb n="257" /><!-- Sawientia hui mundi. stultitia est apud elm -->. Þysses
-            <lb n="258" />middan<!-- spacing -->eardes wysdom. is stunt<!-- space? --> nis. æt<!-- space? --> foran<!-- spacing -->gode. Ac
-            <lb n="259" />þonn<!-- e --> wisdom heo sceal leornian. <!-- þæt --> heo lufie god. <!-- and -->hine
-            <lb n="260" />æfre wurðige on eallu hyre weorcu<!-- m -->. <!-- and --> þa þing leorni<!-- - -->
-            <lb n="261" />ge þe<!-- spacing -->gode liciað. <!-- and -->þa þing forlæte þe him laðe syndon.
-            <lb n="262" />Þæs wisdom is awryten on<!-- spacing -->halgu<!-- m --> bocu<!-- m -->. <!-- and -->be<!-- spacing -->ðam is þus
-            <lb n="263" />ge<!-- space? --> cwæden. <!-- Omnis sapientia adno do est -->. Ælc wisdom
-            <lb n="264" />is of gode. Is nu forðy ælc man eadig <!-- and -->gesælig. se<!-- spacing -->ðe
-            <lb n="265" />for gode wis bið. <!-- and --> gif heo his weorc mid wisdome ge<!-- - -->
-            <lb n="266" />fadað. Be<!-- spacing -->þæm cwæð se ædiga iob. Þæs mannes wis<!-- - -->
-            <lb n="267" />dom<!-- spacing -->is arfæst<!-- spacing -->nys. <!-- and -->soð ingehyd. <!-- þæt --> heo yfel forbuge. 
-            <lb n="268" />Witodlice<!-- .? --> <!-- þæt --> is soþ wysdom. <!-- þæt --> man gewylnige <!-- þæt --> soðe life.
-            <lb n="269" />on þa<!-- m --> þe<!-- spacing -->he æfre lybban mæg mid gode on wuldre
-            <lb n="270" />gif he hat on<!-- spacing -->þyssere worulde ge<!-- space? --> earnað. To þam
-            <lb n="271" />us ge<!-- space? --> læde seo leofa drihten crist. se ðe is soð wys<!-- - -->
-            <lb n="272" />dom. <!-- and -->sawla lif. se<!-- spacing -->ðe mid his <!-- æ -->can fæder. <!-- and -->mid
-            <lb n="273" />þam halgan gaste. a on <!-- æ -->cnysse leofað. <!-- small caps: --> AMEN.
-            <lb n="274" /><!-- small caps, bold: -->EODEM DIE NAI <!-- ? --> SCE EUGENIE UI<!-- ? -->GIN
-            <lb n="275" /><!-- large M --><!-- small caps: -->ÆG GE <!-- capital H -->YRAN SE ÐE WYLE BE ÞAM <!-- capital H -->ALGAN
-        </ab>
-      </div>
-    </body>
-  </text>
+		<body>
+			<!-- Marked up text of the roll goes here -->
+			<div type="sermon">
+				<head xml:lang="la">
+					<num val="8">
+						<choice>
+							<orig>.UIII.</orig>
+							<reg>.VIII.</reg>
+						</choice>
+					</num>
+					<choice>
+						<abbr>KL</abbr>
+						<expan>KALENDAS</expan>
+					</choice>
+					<choice>
+						<abbr>IAN<macron/></abbr>
+						<expan>IANUARII</expan>
+					</choice>
+					. NATIVITAS
+					<choice>
+						<abbr>DN<macron/>I</abbr>
+						<expan>DOMINI</expan>
+					</choice>
+					<choice>
+						<abbr>NR<macron/>I</abbr>
+						<expan>NOSTRI</expan>
+					</choice>
+					<choice>
+						<abbr>INU<macron/></abbr>
+						<expan>IESU</expan>
+					</choice>
+					<choice>
+						<abbr lang="GK">XP<macron/>I</abbr>
+						<expan>CHRISTI</expan>
+					</choice>
+				</head>
+			</div>
+			<div>
+				<ab>
+				<pb n="1" />
+					<!-- lines 1-30 need style formatting -->
+					<lb n="1" />
+						<hi rend="orncap" quantity="3" unit="lines">M</hi>
+						<decoDesc>
+							<decoNote type="initial">
+									<p>One 3 line ornamented capital with a further four-line tail commencing the sermon.</p>
+								</decoNote>
+							</decoDesc>
+						<!-- text is in small caps --><!-- e -->n ða leofestan hwilon ær we sædon eow hy ure
+					<lb n="2" />hælend crist on þisum dæge on soðre menniscnysse acen
+					<lb n="3" />ned wæs of þæm halgan mædene marian. Nu wylle we
+					<lb n="4" />swaþeah for ðyses dæges mærðe eower mód mid þære gast
+					<lb n="5" />lican lare onbryrdan eow tó blisse þurh gód. Sume gedwól
+					<lb n="6" />ménn wæron þuruh deoful beswicane <!-- thorn-with-stroke abbreviation; nonstandard spacing --> swa þæt hí cwædon þǽt
+					<lb n="7" />crist godes sunu nære æfre mid þam halgan fæder wu
+					<lb n="8" />niende. ác wære súm tíma. ær þan <!-- nonstandard spacing --> þe hé acenned wære. ac
+					<lb n="9" /><!-- thorn-with-stroke --> þæt halige godspéll hæfð oferswiðod swylcera gedwolena
+					<lb n="10" />andgit foroft. <!-- nonstandard spacing --> Þa iudeiscan axodon crist hwæt he wære.
+					<lb n="11" />Ða andwyrde he him þus. Ego súm
+						<choice>
+							<abbr>principiu<macron/></abbr>
+							<expan>principium</expan>
+						</choice>
+						. qui
+						<choice>
+							<abbr>et</abbr><!--note: ampersand must use unicode codepoint -->
+							<expan>et</expan>
+						</choice>
+						 lo
+					<lb n="12" />quor uobis. Ic eom angínn. þe eow to spræce. <!-- nonstandard spacing --> Nu ge habbað
+					<lb n="13" />gehered <!-- nonstandard spacing --> hu se hælend be him sylfum sprǽc. <!-- thorn-with-stroke; nonstandard spacing --> þæt hé is ordfru
+					<lb n="14" />ma. <!-- tironian mark --> and angin ealra þinga. mid his heofonlican fæder. <!-- tironian mark --> and mid þam halgan gaste. Se fæder is ángin. <!-- tironian mark --> and se sunu ís angin.
+					<lb n="15" /><!-- tironian mark --> and se halga gást ís angin. ác hí <!-- nonstandard spacing --> ne synd na þreo anginnu. ác
+					<lb n="16" />hí ealle þry synden án angin. <!-- tironian mark --> and án ælmihtig god æfre ún
+					<lb n="17" />begunnen. <!-- tironian mark --> and úngeændod. <!-- nonstandard spacing --> ac se man wǽt þe wyle habban ænig
+					<lb n="18" />þincg ǽr anginne. forþan <!-- nonstandard spacing --> ðe seo halige þrynnes. is an
+					<lb n="19" />ginn. <!--tironian mark --> and <!--nonstandard spacing --> án scyppend ealra gesceafta <!-- tironian mark --> and nan þing næs ne
+					<lb n="20" />nys wuniende. <!-- nonstandard spacing --> þe se an wyrhta <!-- nonstandard spacing --> ne gesceope; Gif hwylc
+					<lb n="21" />gedwola. oððe awoffod man. wyle furðor smeagen <!-- tironian mark --> and þæt
+					<lb n="22" />anginn oferstígan. mid dysilicere dyrstignesse. 
+						<choice>
+							<abbr>þonn<macron/></abbr>
+							<expan>þonne</expan>
+						</choice>
+					<lb n="23" />bið he þam men gelíc <!-- nonstandard spacing --> þe arærþ sume heage hlæddre. <!-- tironian mark --> and
+					<lb n="24" />stihð <!-- nonstandard spacing --> be þære hlæddre stapum. <!-- thorn-with-stroke --> oðþæt he <!-- nonstandard spacing --> to ðæm ænde be
+					<lb n="25" />cume. <!-- tironian mark --> and wylle 
+						<choice>
+							<abbr>þonn<macron/></abbr>
+						<expan>þonne</expan>
+						</choice>
+						 git stígan ufor. astihð
+						<choice>
+							<abbr>þonn<macron/></abbr>
+							<expan>þonne</expan>
+						</choice>
+						 buton
+					<lb n="26" />
+						<choice>
+							<abbr>stapu<macron/></abbr>
+							<expan>stapum</expan>
+						</choice>
+						. oðþæt he stedeleas fylþ mid mycclum wyrsan
+					<lb n="27" />fylle <!-- nonstandard spacing --> swa he furðor stáh. Ðreo þing synd on middan
+					<lb n="28" />earde. án is <!-- hwilwendlic -->. þe hæfð ægðer ge 
+						<choice>
+							<abbr>ordfru<macron/>man</abbr>
+							<expan>ordfrumman</expan>
+						</choice>
+				  <!-- lines 31-60 pending review -->
+					<lb n="29" />ge ende. <!-- thorn-with-stroke --> þæt synd nytenu. <!-- tironian mark --> and ealle sawullease þing þe on
+					<lb n="30" />gunnan þa þa hí god gesceop. <!-- tironian mark --> and æft geændiað <!-- tironian mark --> and to nahte
+				<pb n="2" />
+					<lb n="31" />gewurðaþ. Oðer þing ís éce. swa <!-- thorn-with-stroke --> þæt hit hæfð ordfruman.
+					<lb n="32" /><!-- tironian mark --> and næfð nenne ende. <!-- thorn-with-stroke --> þæt synd ænglas <!-- tironian mark --> and manna saula. þeon
+					<lb n="33" />gunnen ða þa hí god gesceop. ác hí ne geendiað næfre.
+					<lb n="34" />Ðridde þing ís æce. swá <!-- thorn-with-stroke --> þæt hit næfð naðor ne ordfruman
+					<lb n="35" />ne ende. <!-- thorn-with-stroke --> þæt ís se ána ælmihtiga god on þrynnesse. <!-- tironian mark --> and ón
+					<lb n="36" />annysse. æfre wuniende unasmeagendlic. <!-- tironian mark --> and unasæcgend
+					<lb n="37" />líc. Se fæder ís angin. of nanum oðrum. <!-- tironian mark --> and se sunu ís angin.
+					<lb n="38" />æfre of þæm fæder acenned. <!-- tironian mark --> and se halga gast ís angin.
+					<lb n="39" />æfre of þam fæder. <!-- tironian mark --> and of þam sunu. na acenned ác forð
+					<lb n="40" />stæppende. for ðan þe se sunu is þæs fæder wísdóm. of
+					<lb n="41" />him. <!-- tironian mark --> and mid him. <!-- tironian mark --> and se halga gast ís heora begra wylle.
+					<lb n="42" /><!-- tironian mark --> and lufu. of him bam. <!-- tironian mark --> and mid him bam. On ðisne enne god
+					<lb n="43" />wé sceolon geleafan. <!-- tironian mark --> and hine mid weorcum wurðian. forðan.
+					<lb n="44" />þe ealle þa halgan béc ægðer ge on þære ealdan. ǽ. ge
+					<lb n="45" />on þære níwan. soðlice sprecað be þere halgan ðryn
+					<lb n="46" />nysse. <!-- tironian mark --> and soðre annysse. Þæs án scyppend wát ealle
+					<lb n="47" />þing. <!-- tironian mark --> and gesihð ge <!-- thorn-with-stroke --> þæt gedón ís. ge <!-- thorn-with-stroke --> þæt þe nú ís. ge þæt ðe toweard
+					<lb n="48" />ís. ne he nán þing ne forgít. ne him nan þing ætfleon
+					<lb n="49" />ne mæg. Ne óndret he him nanes þinges. for ðan þe
+					<lb n="50" />he næfð nenne riccran. ne furðon nanne him gelic
+					<lb n="51" />ne. Symble he bið gyfende. <!-- tironian mark --> and he ne wanað swaþǽh nan
+					<lb n="52" />þing hís. ne him nanes þinges nis neodþearf. Symble
+					<lb n="53" />he bið ælmihtig gód. for ðan ðe he symble wyle gód.
+					<lb n="54" /><!-- tironian mark --> and næfre nán yfel. ác he hatað þá yfelwyrcendan. <!-- tironian mark --> and
+					<lb n="55" />þá unrihtwisan. Ðá gesceafta þe þæs án scyppend
+					<lb n="56" />gescéop synden mænigfealde. <!-- tironian mark --> and mislices hiwes. <!-- tironian mark --> and ún
+					<lb n="57" />gelíce farað. Sume sindon ungesewenlice gastas.
+					<lb n="58" />butan lichoman swá swá synd ænglas on heofonum.
+				  <!-- lines 61-90, pending review -->
+					<lb n="59" />Sume syndan creopende on eorðan. mid eallum licho
+					<lb n="60" />man. swá swá wurmas doð. Sume gað on twam fotum.
+					<lb n="61" />sume on feower fotum. Sume fleoð mid fyðerum. Sume
+					<lb n="62" />on flodum swimmað.  and hí ealle swaþæh alotene beoð
+				<pb n="3" />
+					<lb n="63" />to þære eorðanweard. and þider wilniað. oððe þæs þe him lyst.
+					<lb n="64" />oððe þæs þe hí beþurfon. ác se mán ana gæð úprihte.
+					<lb n="65" />þæt getacnað. þæt hé sceall má þæncan úpp. þonne nyðer.
+					<lb n="66" />þe lǽs þe þæt mód sy neoðer. þonne se lichoma. and he sceal smea
+					<lb n="67" />gen embe þæt æce líf. þe hé to gesceapen wæs. Swiðor þonne embe
+					<lb n="68" />þa eorðlican þing. swá swá hís wæstm him gebicnað.
+					<lb n="69" />Ealle þás gesceafta habbað anginn. and sume eac en
+					<lb n="70" />de swá swá we ǽr cwǽdon. ác se soða scyppend. Næfð
+					<lb n="71" /> nán angin. for ðan þe he ís him sylf angin. na gescea
+					<lb n="72" />pen. ne geworht. Se geworhte ealle þing. and wunað. á.
+					<lb n="73" />ón ǽcnysse. Hine ne mihte nán þing gewyrcean.
+					<lb n="74" />for ðon þe nán þing næs ær hé. and gif hé geworht wære
+					<lb n="75" />ne wurde hé næfre ælmihtig god. $ft gif hwylc ge
+					<lb n="76" /><!-- e -->wytleas man. wenð þæt he hine sylfne geworhte. Þonne
+					<lb n="77" />axie wé hú hé mihte hine sylfne gewyrcean gif hé
+					<lb n="78" />ǽr nés. He wǽs æfre úngeworht. and æfre wunað un
+					<lb n="79" />geændod. His we magon wundrian. and wé ne magon.
+					<lb n="80" />ne ne motan. ná furðor embe þis smeagen. gif we
+					<lb n="81" />nellað us sylfe forpæran. Seo sunne þe onliht
+					<lb n="82" />ealne mideard ís godes gesceaft. and we magon un
+					<lb n="83" />derstandan þæt hyre leoht ís of hyre. ná heo of þam
+					<lb n="84" />leohte. and seo hætu gæð of þære sunnan. and of hire leoh
+					<lb n="85" />te gelíce. Swá eac þæs ælmihtigan godes sunu ís
+					<lb n="86" />æfre of þæm fæder acenned. soð leoht. and  soð wisdom.
+					<lb n="87" />and se halga gast ís æfre of him bam. na acenned.
+					<lb n="88" />ác forðsteppende. and sé sunu ána. underfæng men
+					<!-- lines 91-120, pending review -->
+					<lb n="89" />niscnysse. and on þisum dege wearð to menn geboren.
+					<lb n="90" />to þí þæt he wolde ús to hís ríce gefæccan. Nis na
+					<lb n="91" />num menn on ðisum deadlican life libbendum nanes
+					<lb n="92" />þinges. swa mycel neod. swa him bið þæt he cunne þonne
+					<lb n="93" />ælmihtigan god mid geleafan. and siþþan his agene
+					<lb n="94" />sawle. We habbað eow oft gesæd eowerne geleafan
+				<pb n="4" />
+					<lb n="95" />be þære halgan ðrynnysse. Nu wylle wé eow sum þing
+					<lb n="96" />be eowre sawle sæccgan. sceortlice gif wé magon.
+					<lb n="97" />Ealle þa geleaffullan fæderas þe godes lare awri
+					<lb n="98" />ton. sædon untwylice. and geþwærlehton on þam anum.
+					<lb n="99" />þæt god gescypð ælces mannes sawle. and seo sawl nis
+					<lb n="100" />na of godes agenum gecynde. Gif heo wære of go
+					<lb n="101" />des gecynde genumen. witodlice ne mihte heo sin
+					<lb n="102" />gian. Þam men ís gecyndelic þæt hé lufige þæt þæt gód
+					<lb n="103" />is. Hwæt is gód butan gode anum se þe is healic
+					<lb n="104" />godnisse. butan þam ne mæg nan man nan þing
+					<lb n="105" />godes habban. Ðas godnysse we sceolan simble
+					<lb n="106" />lufian þe ús ælc gód ofcymþ. ac þissere godnysse
+					<lb n="107" />lufu ne mæg beon butan on þære sawle. and seo án
+					<lb n="108" />sawul ís æðelboren þe ðonne lufað þe heo fram com.
+					<lb n="109" />þe hí þyllice gescéop þæt heo on hire andgyte habban
+					<lb n="110" />mihte godes ánlicnesse. and gelicnysse. and þæs wyrðe
+					<lb n="111" />wære'. þæt hyre gód onwunode. Uþwytan sæcgað. þæt
+					<lb n="112" />þære sawle gecynd ís ðryfeald. An dǽl is on hire
+					<lb n="113" />gewylnigendlic. oðer yrsigendlic. þrydde gescead
+					<lb n="114" />wislic. Twægen þissera dæla habbað deor and nytenu
+					<lb n="115" />mid ús. þæt ís gewylnunge and yrre. Se man ana hæfð
+					<lb n="116" />gescéad. and rǽd. and andgit. Gewylnung is þam menn
+					<lb n="117" />forgifen to gewilnienne þa ðing þe him fremiað
+					<lb n="118" />to  nitwyrðum þingum and to þære ecan hæle. Þonne gif
+					<!-- lines 121-150, needs style formatting, page break check -->
+					<lb n="119" />seo gewylnung miswent. þonne acenð he gyfernysse.
+					<lb n="120" />and forlygr. and gitsunge. Yrre is ðære sawle forgi
+					<lb n="121" />fen. to ðy þæt heo yrsige ongean leahtres. and ne beo
+					<lb n="122" />na synnum underþeodd. for þan ðe crist cwæð.
+					<lb n="123" />ælc þæra þe synna wyrcð. is þæra synna ðeow. Gif
+					<lb n="124" />þæt yrre bið on yfel awend. þonne cymð of þam unrot
+					<lb n="125" />nisse. and æmylnysse. Gescead is ðære sawle forgi
+					<lb n="126" />fen to gewyssiene and to styrenne hire agen lif.
+				<pb n="5" />    
+					<lb n="127" />and ealle hire dæda. Of þam gesceade gif hit miswænt. cymð
+					<lb n="128" />modignysse and ydelgylp. Gescead wexð on cildrum na seo
+					<lb n="129" />sawul. and seo sawul þihþ on mægenum. and ne bið na mare þonne
+					<lb n="130" />heo æt fruman wæs ac bið betere ne heo `ne' underfæhð li
+					<lb n="131" />chomlice mycelnysse. Seo sawul hæfð swa swa we ær
+					<lb n="132" />cwædon on hire gecynde. þære halgan þrynnysse
+					<lb n="133" />anlicnysse. on þan þe heo hæfð gemynd. and andgit.
+					<lb n="134" />and wyllan. An sawul is. and an lif. and an edwist. Þe þas ðreo
+					<lb n="135" />þing hæfð on hire. and þas ðreo þing na synd na ðreo
+					<lb n="136" />lif ac an. ne þreo ædwiste ac an. | Seo sawul.
+					<lb n="137" />lif. oððe seo ædwist. synd gecwædene to hyre sylfra.
+					<lb n="138" />and þæt gemynd. oððe þæt andgit. oþþe seo wylla. Beoð gecwæ
+					<lb n="139" />dene to sumum þinga. edlesendlice. and þas ðreo þing
+					<lb n="140" />habbað annysse him betwynan. Ic undergyte. þæt
+					<lb n="141" />ic wylle undergytan and gemunan. and ic wylle þæt ic under
+					<lb n="142" />gyte and gemune. þær þær þæt gemynd bið. þær bið þæt and
+					<lb n="143" />gyt and se wylla. Uton nu behealden þa wundorlican
+					<lb n="144" />swyftnysse þære sawle. heo hæfð swa mycele swyft
+					<lb n="145" />nysse þæt heo on anre tide gif heo swa wyle. besceawað
+					<lb n="146" />heofonan and ofer sǽ flyhð. land. and burga geondfærð.
+					<lb n="147" />and ealle þas þing mid geþohte on hire sihðe gesæt.
+					<lb n="148" />and swa hraðe swa heo gehyrð þære burge naman.
+					<!-- lines 151-179, style formatting and page breaks needed -->
+					<lb n="149" />þe heo ǽr cuðe. swá hraðe heo mæg þa burh on hire
+					<lb n="150" />geþohte gescyppan hwylc heo bið. Eal swá be gehwyl
+					<lb n="151" />cum oðrum þingum þe heo ǽr cuþe. oððe ne cuðe.
+					<lb n="152" />heo mæg on hire mode gescyppan. þonne heo gehyrð
+					<lb n="153" />be þam spræcan. And swá styrigende ís seo sawul. þæt heo
+					<lb n="154" />furðon ón slæpe ne gestylþ. ac ðonne hé smeað be ro
+					<lb n="155" />me byrig ne mæg heo þá hwíle smeagen be hieru
+					<lb n="156" />salém. oððe þonne heo smeað be anum þing. ne mæg
+					<lb n="157" />heo þa hwyle be oðrum þinge smeagen. ác bið gebys
+					<lb n="158" />god mid þam anum ðinge oðþæt þæt geþoht gewyte.
+				<pb n="6" />
+					<lb n="159" />and oðer cume. Witodlice god ælmihtig wát ealle þing togæ
+					<lb n="160" />dere. and ealle þing hæfð on his andwerdnysse. and hí æfre
+					<lb n="161" />beoþ ón his gesihþe. and næfre him úncuþe. and þis ís þæt
+					<lb n="162" />gecwæden ís þæt god ís æghwǽr eall. for ðan ðe ealle þing
+					<lb n="163" />þe æfre wæron oððe nú synd. oþþe ða þe towearde synd.
+					<lb n="164" />ealle hí synd on godes gesihðe. anwearde. na ǽne. ác
+					<lb n="165" />æfre. Seo sawul soðlice ís þæs lichoman líf. and þære
+					<lb n="166" />sawle líf ís god. Gif seo sawul forlæt þonne lichoman
+					<lb n="167" />þonne swælt seo lichoma. and gif god forlæt þa sawle for
+					<lb n="168" />ormættum synnum. þonne swælt heo on þam sælran dæle
+					<lb n="169" />swá þæt heo bið forloren þam æcan life. and swáþeah
+					<lb n="170" />næfre ne geændað on þam æcum wytum. Þæs dæð hire
+					<lb n="171" />gelimpð. gif heo læt rixian on hire þá gewilnunge
+					<lb n="172" />and þæt yrre. swiðor þonne þæt gescead þe hí gewysigen sceall
+					<lb n="173" />to weldædum. á. Ðuruh þæt gescead ána we synd sæl
+					<lb n="174" />ran þonne þa ungesceadwysan nytenu. Mid twam
+					<lb n="175" />wurðscipum geglængde se ælmihtiga scyppend þæs
+					<lb n="176" />mannes sawle. þæt ís mid æccnysse. and eadignysse.
+					<lb n="177" />Ac heo forleas þa ædignysse þa ða hé agylte. and heo
+					<!-- lines 180-287, style formatting needed -->
+					<lb n="178" />ne mihte þa æcnysse forleosan. for ðan þe heo
+					<lb n="179" />ne geændað næfre. Þære sawle wlyte is. <!-- þæt --> heo hæb
+					<lb n="180" />be mihte. swa <!-- þæt --> heo leahtres forbúge. <!-- and --> heo bið atelic
+					<lb n="181" />þurh leahtras gif he him underlið. Ðære sawle
+					<lb n="182" />mihta syndon þas feower fyrmestan. and sælestan. pru
+					<lb n="183" />dentia <!-- þæt --> is snoternysse. þurh þa heo sceal hyre scip
+					<lb n="184" />pend understandan. and hine lufian. <!-- and --> tosceaden god
+					<lb n="185" /><!-- fra[m] --> yfele. Oðer mægen is. <!-- Iustitia -->. <!-- þæt --> is rihtwisnys
+					<lb n="186" />þurh <!-- þa inserted by transcription --> heo sceal god wurðigan. <!-- and --> rihtlice libban. Þæt
+					<lb n="187" />ðrydde mægen is. temperatia. <!-- þæt --> is gemetegung. mid
+					<lb n="188" />þære sceall seo sawul ealle þing gemætegian. <!-- þæt --> hit
+					<lb n="189" />to swiþe <!-- ne sy -->. <!-- ne to --> hwonlice. for ðan þe hit is awry
+					<lb n="190" />ten. <!-- Omnia nimia nocent -->. <!-- þæt --> is ealle oferdone
+				<pb n="7" />
+					<lb n="191" />þing <!-- dæriað -->. <!-- Witto -->lice gemetgung is eallra mæge
+					<lb n="192" />na <!-- modor. --> þæt feorðe mægen is. <!-- Fortitudo -->. <!-- þæt --> is <!-- strænð -->
+					<lb n="193" />oððe anr<!-- æ -->nyss. þurh þa sceal seo sawul forbæ
+					<lb n="194" />ran <!-- earf -->oðnysse mid andrædum mode. for godes
+					<lb n="195" />lufan. <!-- and --> næfre þam deofle ne abugan to forwyrde.
+					<lb n="196" />Ðas feower mægenu habbbað ænne kynehelm. <!-- þæt --> is
+					<lb n="197" />seo soðe lufu<!-- . --> godes. <!-- and --> manna. for ðan þe seo sawul
+					<lb n="198" />is gesælig <!-- . --> ðe þon<!-- n --> scyppend lufað <!-- þe hi --> gesceop.
+					<lb n="199" /><!-- and --> gefæran. <!-- and --> <!-- wyle --> him fremian swa heo fyrmest
+					<lb n="200" />mæge. Seo sawul is gesceadwis gast. æfre cucu
+					<lb n="201" /><!-- and --> mæg underfon ge godne wyllan. <!-- and --> yfelne<!-- . --> æfter
+					<lb n="202" />agenu<!-- m --> cyre. Se <!-- welwillende --> scyppend læt hi hab
+					<lb n="203" />ben agenes cyres geweald. þa wearð heo <!-- be agenum -->
+					<lb n="204" />wyl<!-- l -->lan gewæmmed þurh þæs deofles lare. Heo
+					<lb n="205" />wærð æft alysad þuruh godes <!-- gife -->. gif heo <!-- gode -->
+					<lb n="206" />gehyrsumað. Heo is <!-- ungesæwenlic -->. <!-- and --> unlicho<!-- m -->
+					<lb n="207" />lic. butan hæv<!-- e --> <!-- . --> <!-- and --> butan bleo. mid þam licha
+					<lb n="208" />man befangen. <!-- and --> on eallu<!-- m --> limu<!-- m --> wunigende. Ne
+					<lb n="209" />heo ne<!-- spacing -->mæg be<!-- spacing -->hyre agenre mihte of<!-- spacing -->þa<!-- m --> lichoman
+					<lb n="210" />gewytan. ne æft ongean cyrran. butan se<!-- spacing -->wylle þe<!-- spacing -->hi
+					<lb n="211" />geworhte. and on þonn<!-- e? --> lichaman asænde. Heo is on bocu<!-- m --> manegu<!-- m --> naman gecyged. be<!-- spacing -->hyre weorces þe<!-- - -->
+					<lb n="212" />nungum. Hyre nama is <!-- anima --> <!-- þæt -->is sawul <!-- and --> seo
+					<lb n="213" />nama gelympð to hire life. <!-- AND --> <!-- spiritu --> gast. belimpð
+					<lb n="214" />to hire ymb<!-- space? --> wlatunge. Heo is <!-- sensus -->. <!-- þæt --> is andgit.
+					<lb n="215" />oððe fel<!-- space? --> nyss. þonn<!-- e --> heo gefret. Heo is <!-- animus -->.
+					<lb n="216" /><!--þæt-->is mod. þonn<!-- e --> heo wat. Heo is <!-- mens -->. <!-- þæt --> is mod
+					<lb n="217" />þonn<!-- e --> heo under<!-- space? --> stent. Heo is <!-- memoria -->. <!-- þæt-->is ge<!-- - -->
+					<lb n="218" />mynd. þonn<!-- e --> heo gemanð. Heo is <!-- ratio -->. <!-- þæt --> is ge<!-- - -->
+					<lb n="219" />scead. þonn<!-- e --> heo to scæt. Heo is <!-- uoluntas -->. <!-- þæt --> is
+					<lb n="220" />wylla. þonn<!-- e --> heo hwæt wyle. Ac<!-- spacing -->swa<!-- space? --> þeah ealle
+					<lb n="221" />þas naman syndon sawul. ælc sawul is gast. ac
+				<pb n="8" />
+					<lb n="222" />swa<!-- space? --> þeah nis na ælc gast sawul. Se<!-- spacing -->apostol paulus
+					<lb n="223" />to<!-- space --> twæmde þæs gastes naman. <!-- and --> þæs modes þus cwæ<!-- - -->
+					<lb n="224" />ðende. <!-- Psalla spiritu psalla et mente -->. Þæt is on æn<!-- - -->
+					<lb n="225" />glisc. Ic singe mid gaste. <!-- and --> ic singe mid <!-- mode -->. Se
+					<lb n="226" />singð mid gaste. se<!-- spacing -->ðe clypað þa word mid muðe. <!-- and --> ne
+					<lb n="227" />under<!-- space? --> stænt þæs andgites getacnunge. <!-- and -->se <!-- singð --><!-- misspelling -->
+					<lb n="228" />mid mode se<!-- spacing -->ðe þæs andgites getacnunge understænt.
+					<lb n="229" />Seo sawul is þæs lichoman hlæfdige. <!-- and --> heo gewissað
+					<lb n="230" />þa fif andgitu þæs lichaman. swa swa of cyne<!-- - -->
+					<lb n="231" />sætle. þa andgitu sint gehatene þus. <!-- Yisus -->.
+					<lb n="232" /><!-- þæt --> is gesihð. <!-- auditus -->. hlyst. <!-- Gustus -->. swæc on þa<!-- m -->
+					<lb n="233" />muðe. <!-- Odoratus -->. stænc. on<!-- spacing -->þæra nosa. <!-- tactus -->.
+					<lb n="234" />hrepung. oððe <!-- grepung -->. on eallu<!-- m --> limum. ac<!-- spacing -->þeah ge<!-- - -->
+					<lb n="235" />wunelicost on<!-- spacing -->þam handu. Ðas fif andgitu gewis<!-- - -->
+					<lb n="236" />sæð seo sawul to<!-- spacing -->hire wyllan. <!-- and --> hyre gedafnað <!-- þæt --> heo 
+					<lb n="237" />swa<!-- spacing -->swa hlæfdige. geornlice foresceawige hwæt heo
+					<lb n="238" />gehwylcu<!-- m --> lime bebeode to donne. oððe hwæt heo ge<!-- - -->
+					<lb n="239" />hwylcu lime geþafige on<!-- spacing -->gewylnunge his gecyndes.
+					<lb n="240" /><!-- þæt --> þær nan<!-- spacing -->þing unþæslice ne<!-- spacing -->gelympe on nanes
+					<lb n="241" />limes þenunge. Swa swa god ælmihtig oferstihð
+					<lb n="242" />ealle gesceafta. swa ofer<!-- space? --> stihð seo sawul ealle
+					<lb n="243" />licha<!-- m -->lice gesceafta mid wurðfulnysse hyre ge<!-- - -->
+					<lb n="244" />cyndes. <!-- and --> nan lichamlic gesceaft ne<!-- spacing -->mæg beon hyre
+					<lb n="245" />wið<!-- space? --> meten. We cwæden ær <!-- þæt --> heo wære butan bleo.
+					<lb n="246" />for þan ðe heo nis na <!-- lic / licham written above -->. On<!-- spacing -->lichaman bið bleoh.
+					<lb n="247" /><!-- and -->seo sawul bið swa ge<!-- space? --> wlite<!-- spacing? -->god. swa heo on worulde
+					<lb n="248" />geearnode. Be þa<!-- m --> cwæþ crist on<!-- spacing -->his godspelle.
+					<lb n="249" /><!-- Tunc iusti fulgebunt sicut sol in regno patris -->
+					<lb n="240" /><!-- eorum -->. <!-- ÞÆT --> <!-- ys --> on ænglisc. þonn<!-- e --> scinað þa riht<!-- space? --> wisan swa
+					<lb n="241" />swa sunne on heora fader rice. Witodlice þa ar<!-- - -->
+					<lb n="242" /><!-- leasan beoð heora yfelum weorcum gelice. --> Nis <!-- seo -->
+					<lb n="243" />orþung þe we ut blawaþ. <!-- and -->in ateoð oððe ure<!-- --> sawul
+				<pb n="9" />
+					<lb n="244" />ac is seo lyft þe ealle lichamlice þing on<!-- spacing -->lybbað. butan
+					<lb n="245" />fi<!-- x -->um anu<!-- m --> þe on flodu<!-- m --> lybbað. Oft bið seo sawul on anu<!-- m -->
+					<lb n="246" />þinge. oððe on anum geþohte. swa bysig <!-- þæt -->heo ne gymð hwa
+					<lb n="247" />hyre gehende bið. þeah<!-- spacing -->ðe<!-- spacing -->heo on locie. ne<!-- spacing -->þeah heo sume
+					<lb n="248" />stemne gehyre. heo hit ne<!-- spacing -->understent. ne<!-- spacing -->þeah hi hwa hrep<!-- - -->
+					<lb n="249" />pe heo hit ne<!-- spacing -->gefret. Hwilon heo besargað hyre licho<!-- - -->
+					<lb n="250" />man sarnissa. hwilon heo gladað on<!-- spacing -->godu<!-- m --> gelimpu<!-- m -->. hwi<!-- - -->
+					<lb n="251" />lon heo þæncð þa<!-- spacing -->ðing þe<!-- spacing -->heo ær cuðe. hwilon heo wyle
+					<lb n="252" />wytan þa<!-- spacing -->ðing þe<!-- spacing -->heo ær ne cuðe. Sume þing heo wyle.
+					<lb n="253" />sume ðing heo nele. <!-- and -->ealle lichamlicra þinga hiw heo
+					<lb n="254" />mæg on hyre sylfre gehiwian. <!-- and -->swa gehiwode on<!-- spacing -->hyre
+					<lb n="255" />mode gehealden. Ðære sawle wlyte is <!-- þæt --> heo wisdom
+					<lb n="256" />lufie. na<!-- spacing -->ðone eorðlican wisdom be<!-- spacing -->þa<!-- m --> þe<!-- spacing -->þus awriten is.
+					<lb n="257" /><!-- Sawientia hui mundi. stultitia est apud elm -->. Þysses
+					<lb n="258" />middan<!-- spacing -->eardes wysdom. is stunt<!-- space? --> nis. æt<!-- space? --> foran<!-- spacing -->gode. Ac
+					<lb n="259" />þonn<!-- e --> wisdom heo sceal leornian. <!-- þæt --> heo lufie god. <!-- and -->hine
+					<lb n="260" />æfre wurðige on eallu hyre weorcu<!-- m -->. <!-- and --> þa þing leorni<!-- - -->
+					<lb n="261" />ge þe<!-- spacing -->gode liciað. <!-- and -->þa þing forlæte þe him laðe syndon.
+					<lb n="262" />Þæs wisdom is awryten on<!-- spacing -->halgu<!-- m --> bocu<!-- m -->. <!-- and -->be<!-- spacing -->ðam is þus
+					<lb n="263" />ge<!-- space? --> cwæden. <!-- Omnis sapientia adno do est -->. Ælc wisdom
+					<lb n="264" />is of gode. Is nu forðy ælc man eadig <!-- and -->gesælig. se<!-- spacing -->ðe
+					<lb n="265" />for gode wis bið. <!-- and --> gif heo his weorc mid wisdome ge<!-- - -->
+					<lb n="266" />fadað. Be<!-- spacing -->þæm cwæð se ædiga iob. Þæs mannes wis<!-- - -->
+					<lb n="267" />dom<!-- spacing -->is arfæst<!-- spacing -->nys. <!-- and -->soð ingehyd. <!-- þæt --> heo yfel forbuge. 
+					<lb n="268" />Witodlice<!-- .? --> <!-- þæt --> is soþ wysdom. <!-- þæt --> man gewylnige <!-- þæt --> soðe life.
+					<lb n="269" />on þa<!-- m --> þe<!-- spacing -->he æfre lybban mæg mid gode on wuldre
+					<lb n="270" />gif he hat on<!-- spacing -->þyssere worulde ge<!-- space? --> earnað. To þam
+					<lb n="271" />us ge<!-- space? --> læde seo leofa drihten crist. se ðe is soð wys<!-- - -->
+					<lb n="272" />dom. <!-- and -->sawla lif. se<!-- spacing -->ðe mid his <!-- æ -->can fæder. <!-- and -->mid
+					<lb n="273" />þam halgan gaste. a on <!-- æ -->cnysse leofað. <!-- small caps: --> AMEN.
+					<lb n="274" /><!-- small caps, bold: -->EODEM DIE NAI <!-- ? --> SCE EUGENIE UI<!-- ? -->GIN
+					<lb n="275" /><!-- large M --><!-- small caps: -->ÆG GE <!-- capital H -->YRAN SE ÐE WYLE BE ÞAM <!-- capital H -->ALGAN
+				</ab>
+			</div>
+		</body>
+	</text>
 </TEI>
