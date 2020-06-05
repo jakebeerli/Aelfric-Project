@@ -152,15 +152,15 @@
       <div>
         <ab>
           <pb n="1" />
-			<hi rend="orncap" quantity="3" unit="lines">M</hi>
-            <decoDesc>
-              <decoNote type="initial">
-                <p>One 3 line ornamented capital with a further four-line tail commencing the sermon.
-              </p>
-            </decoNote>
-            </decoDesc>
+			<lb n="1" />
+				<hi rend="orncap" quantity="3" unit="lines">M</hi>
+				<decoDesc>
+					<decoNote type="initial">
+						<p>One 3 line ornamented capital with a further four-line tail commencing the sermon.</p>
+					</decoNote>
+				</decoDesc>
             <!-- lines 1-30 need style formatting -->
-            <lb n="1" /><!-- text is in small caps --><!-- e -->n ða leofestan hwilon ær we sædon eow hy ure
+            <!-- text is in small caps --><!-- e -->n ða leofestan hwilon ær we sædon eow hy ure
             <lb n="2" />hælend crist on þisum dæge on soðre menniscnysse acen
             <lb n="3" />ned wæs of þæm halgan mædene marian. Nu wylle we
             <lb n="4" />swaþeah for ðyses dæges mærðe eower mód mid þære gast
