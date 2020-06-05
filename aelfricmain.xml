@@ -1,117 +1,117 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI>
-  <teiHeader>
-    <!-- bibliographic, technical, cataloguing information, etc. NOT the main text, but essential for a valid TEI document -->
-    <fileDesc>
-      <!-- a general heading -->
-      <titleStmt>
-        <title/>
-          <!-- this is the title of the digital document, not the original text -->
-        <principal/>
-        <respStmt>
-          <!-- the responsibility statement allows specification of jobs and those who did them -->
-          <resp/>
-          <name/>
-          <!-- Other instructors go here -->
-        </respStmt>
-        <respStmt>
-          <resp>Manuscription description, transcription and markup by</resp>
-          <name/>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <!-- this tells you who is publishing the digital version -->
-        <publisher/>
-      </publicationStmt>
-      <sourceDesc>
-        <!-- this tells you about the origial that is being encoded here -->
-        <msDesc>
-          <!-- this is vital for MSS markup; it contains the information usually found in catalogue entries and edition front matter -->
-          <msIdentifier>
-            <!-- This is  the information required to identify the manuscript being described -->
-            <settlement/>
-            <repository/>
-            <idno/>
-          </msIdentifier>
-          <head>
-            <!-- basic statement about the MSS goes here -->
-          </head>
-          <msContents>
-            <summary>
-              <!-- what is in the MS in terms of texts and sections -->
-            </summary>
-            <textLang>
-              <!-- languages -->
-            </textLang>
-          </msContents>
-          <physDesc>
-            <!-- elements of the physical description of the MS -->
-            <objectDesc>
-              <supportDesc>
-                <support>
-                  <!-- description of support (Note this may contain many elements) -->
-                  <p/>
-                </support>
-                <extent>
-                  <!-- description of size -->
-                </extent>
-                <condition>
-                  <p>
-                    <!-- description of damage, etc -->
-                  </p>
-                </condition>
-              </supportDesc>
-              <layoutDesc>
-                <layout>
-                  <!-- how text is laid out on the page, including information about any ruling, pricking -->
-                </layout>
-              </layoutDesc>
-            </objectDesc>
-            <handDesc>
-              <ab>
-                <!--a description of the writing in the manuscript -->
-              </ab>
-            </handDesc>
-            <decoDesc>
-              <p>
-                <!-- description of the decoration in the MS -->
-              </p>
-            </decoDesc>
-          </physDesc>
-          <history>
-            <!-- this tells you the origin and provenance of the MS -->
-            <summary/>
-            <origin>
-              <!-- origin goes here -->
-            </origin>
-            <provenance>
-              <!-- provenance goes here -->
-            </provenance>
-          </history>
-          <additional>
-            <listBibl>
-              <bibl/>
-            </listBibl>
-          </additional>
-        </msDesc>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <!-- This contains information about the editorial and encoding practices -->
-      <projectDesc>
-        <p>
-          <!-- goals of the project -->
-        </p>
-      </projectDesc>
-      <editorialDecl>
-        <p>
-          <!-- editorial practices -->
-        </p>
-      </editorialDecl>
-    </encodingDesc>
-  </teiHeader>
-  <text>
+	<teiHeader>
+		<!-- bibliographic, technical, cataloguing information, etc. NOT the main text, but essential for a valid TEI document -->
+		<fileDesc>
+		<!-- a general heading -->
+			<titleStmt>
+				<title/>
+				<!-- this is the title of the digital document, not the original text -->
+				<principal/>
+				<respStmt>
+					<!-- the responsibility statement allows specification of jobs and those who did them -->
+					<resp/>
+					<name/>
+					<!-- Other instructors go here -->
+				</respStmt>
+				<respStmt>
+					<resp>Manuscription description, transcription and markup by</resp>
+					<name/>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<!-- this tells you who is publishing the digital version -->
+				<publisher/>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- this tells you about the origial that is being encoded here -->
+				<msDesc>
+					<!-- this is vital for MSS markup; it contains the information usually found in catalogue entries and edition front matter -->
+					<msIdentifier>
+						<!-- This is  the information required to identify the manuscript being described -->
+						<settlement/>
+						<repository/>
+						<idno/>
+					</msIdentifier>
+					<head>
+						<!-- basic statement about the MSS goes here -->
+					</head>
+					<msContents>
+						<summary>
+							<!-- what is in the MS in terms of texts and sections -->
+						</summary>
+						<textLang>
+							<!-- languages -->
+						</textLang>
+					</msContents>
+					<physDesc>
+						<!-- elements of the physical description of the MS -->
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<!-- description of support (Note this may contain many elements) -->
+									<p/>
+								</support>
+								<extent>
+									<!-- description of size -->
+								</extent>
+								<condition>
+									<p>
+										<!-- description of damage, etc -->
+									</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout>
+									<!-- how text is laid out on the page, including information about any ruling, pricking -->
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc>
+							<ab>
+								<!--a description of the writing in the manuscript -->
+							</ab>
+						</handDesc>
+						<decoDesc>
+							<p>
+								<!-- description of the decoration in the MS -->
+							</p>
+						</decoDesc>
+					</physDesc>
+					<history>
+						<!-- this tells you the origin and provenance of the MS -->
+						<summary/>
+						<origin>
+							<!-- origin goes here -->
+						</origin>
+						<provenance>
+							<!-- provenance goes here -->
+						</provenance>
+					</history>
+					<additional>
+						<listBibl>
+							<bibl/>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<!-- This contains information about the editorial and encoding practices -->
+			<projectDesc>
+				<p>
+					<!-- goals of the project -->
+				</p>
+			</projectDesc>
+			<editorialDecl>
+				<p>
+					<!-- editorial practices -->
+				</p>
+			</editorialDecl>
+		</encodingDesc>
+	</teiHeader>
+	<text>
     <body>
       <!-- Marked up text of the roll goes here -->
       <div type="sermon">
