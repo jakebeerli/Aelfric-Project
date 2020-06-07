@@ -170,7 +170,7 @@
 					<lb n="8" />niende</w>. <w>ác</w> <w>wære</w> <w>súm</w> <w>tíma</w>. <w>ær</w> <w>þan</w> <!-- nonstandard spacing --> <w>þe</w> <w>hé</w> <w>acenned</w> <w>wære</w>. <w>ac</w>
 					<lb n="9" /><w><!-- thorn-with-stroke --> þæt</w> <w>halige</w> <w>godspéll</w> <w>hæfð</w> <w>oferswiðod</w> <w>swylcera</w> <w>gedwolena</w>
 					<lb n="10" /><w>andgit</w> <w>foroft</w>. <!-- nonstandard spacing --> <w>Þa</w> <w>iudeiscan</w> <w>axodon</w> <w>crist</w> <w>hwæt</w> <w>he</w> <w>wære</w>.
-					<lb n="11" /><w>Ða</w> <w>andwyrde</w> <w>he</w> <w>him</w> <w>þus</w>. <w>Ego</w> <w>súm</w>
+					<lb n="11" /><w>Ða</w> <w>andwyrde</w> <w>he</w> <w>him</w> <w>þus</w>. <!-- begin latin quote --><w>Ego</w> <w>súm</w>
 						<w><choice>
 							<abbr>principiu<macron/></abbr>
 							<expan>principium</expan>
@@ -180,8 +180,8 @@
 							<abbr>et</abbr><!--note: ampersand must use unicode codepoint -->
 							<expan>et</expan>
 						</choice></w>
-						 <w>lo</w>
-					<lb n="12" /><w>quor</w> <w>uobis</w>. <w>Ic</w> <w>eom</w> <w>angínn</w>. <w>þe</w> <w>eow</w> <w>to</w> <w>spræce</w>. <!-- nonstandard spacing --> <w>Nu</w> <w>ge</w> <w>habbað</w>
+						 <w>lo
+					<lb n="12" />quor</w> <w>uobis</w><!-- end latin -->. <w>Ic</w> <w>eom</w> <w>angínn</w>. <w>þe</w> <w>eow</w> <w>to</w> <w>spræce</w>. <!-- nonstandard spacing --> <w>Nu</w> <w>ge</w> <w>habbað</w>
 					<lb n="13" /><w>gehered</w> <!-- nonstandard spacing --> <w>hu</w> <w>se</w> <w>hælend</w> <w>be</w> <w>him</w> <w>sylfum</w> <w>sprǽc</w>. <w><!-- thorn-with-stroke; nonstandard spacing --> þæt</w> <w>hé</w> <w>is</w> <w>ordfru
 					<lb n="14" />ma</w>. <w><!-- tironian mark --> and</w> <w>angin</w> <w>ealra</w> <w>þinga</w>. <w>mid</w> <w>his</w> <w>heofonlican</w> <w>fæder</w>. <w><!-- tironian mark --> and</w> <w>mid</w> <w>þam</w> <w>halgan</w> <w>gaste</w>. <w>Se</w> <w>fæder</w> <w>is</w> <w>ángin</w>. <w><!-- tironian mark --> and</w> <w>se</w> <w>sunu</w> <w>ís</w> <w>angin</w>.
 					<lb n="15" /><w><!-- tironian mark --> and</w> <w>se</w> <w>halga</w> <w>gást</w> <w>ís</w> <w>angin</w>. <w>ác</w> <w>hí</w> <!-- nonstandard spacing --> <w>ne</w> <w>synd</w> <w>na</w> <w>þreo</w> <w>anginnu</w>. <w>ác</w>
