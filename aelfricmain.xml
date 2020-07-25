@@ -115,6 +115,7 @@
 		<body>
 			<!-- Marked up text of the roll goes here -->
 			<div type="sermon">
+				<!-- NOTE: (ad) VIII Kalendas = 25 December on the Julian calendar, which in Aelfric's time would have corresponded to Dec 30/31 on the Gregorian calendar but today corresponds to Jan 7. -->
 				<head xml:lang="la">
 					<num val="8">
 						<choice>
@@ -154,23 +155,24 @@
 				<pb n="1" />
 					<!-- lines 1-30 need style formatting -->
 					<lb n="1" />
-						<w id="0059023"><hi rend="orncap" quantity="3" unit="lines">M</hi>
+						<!-- men dha leofestan follows a general trend I've noticed of using an interjection to introduce the genre of the work. SEE: hwaet -->
+						<w><hi rend="orncap" quantity="3" unit="lines">M</hi>
 						<decoDesc>
 							<decoNote type="initial">
 									<p>One 3 line ornamented capital with a further four-line tail commencing the sermon.</p>
 								</decoNote>
 							</decoDesc>
 						<!-- text is in small caps --><!-- e -->n</w> <w>ða</w> <w>leofestan</w> <w>hwilon</w> <w>ær</w> <w>we</w> <w>sædon</w> <w>eow</w> <w>hy</w> <w>ure</w>
-					<lb n="2" /><w>hælend</w> <w>crist</w> <w>on</w> <w>þisum</w> <w>dæge</w> <w>on</w> <w>soðre</w> <w>menniscnysse</w> <w>acen</w>
-					<lb n="3" />ned</w> <w>wæs</w> <w>of</w> <w>þæm</w> <w>halgan</w> <w>mædene</w> <w>marian</w>. <w>Nu</w> <w>wylle</w> <w>we</w>
-					<lb n="4" /><w>swaþeah</w> <w>for</w> <w>ðyses</w> <w>dæges</w> <w>mærðe</w> <w>eower</w> <w>mód</w> <w>mid</w> <w>þære</w> <w>gast</w>
-					<lb n="5" />lican</w> <w>lare</w> <w>onbryrdan</w> <w>eow</w> <w>tó</w> <w>blisse</w> <w>þurh</w> <w>gód</w>. <w>Sume</w> <w>gedwól</w>
-					<lb n="6" /><w>ménn</w> <w>wæron</w> <w>þuruh</w> <w>deoful</w> <w>beswicane</w> <!-- thorn-with-stroke abbreviation; nonstandard spacing --> <w>swa</w> <w>þæt</w> <w>hí</w> <w>cwædon</w> <w>þǽt</w>
+					<lb n="2" /><w>hælend</w> <w>crist</w> <w>on</w> <w>þisum</w> <w>dæge</w> <w>on</w> <w>soðre</w> <w>menniscn<!-- diacritic -->ysse</w> <w>acen</w>
+					<lb n="3" />ned</w> <w>wæs</w> <w>of</w> <w>þæm</w> <w>halgan</w> <w>mædene</w> <w>marian</w>. <w>Nu</w> <w>w<!-- diacritic -->ylle</w> <w>we</w>
+					<lb n="4" /><w>swaþeah</w> <w>for</w> <w>ð<!-- diacritic -->yses</w> <w>dæges</w> <w>mærðe</w> <w>eower</w> <w>mod</w> <w>mid</w> <w>þære</w> <w>gast</w>
+					<lb n="5" />lican</w> <w>lare</w> <w>onbr<!-- diacritic -->yrdan</w> <w>eow</w> <w>to</w> <w>blisse</w> <w>þurh</w> <w>god</w>. <w>Sume</w> <w>gedwol</w>
+					<lb n="6" /><w>menn</w> <w>wæron</w> <w>þuruh</w> <w>deoful</w> <w>beswicane</w> <!-- thorn-with-stroke abbreviation; nonstandard spacing --> <w>swa</w> <w>þæt</w> <w>hi</w> <w>cwædon</w> <w>þæt</w>
 					<lb n="7" /><w>crist</w> <w>godes</w> <w>sunu</w> <w>nære</w> <w>æfre</w> <w>mid</w> <w>þam</w> <w>halgan</w> <w>fæder</w> <w>wu
-					<lb n="8" />niende</w>. <w>ác</w> <w>wære</w> <w>súm</w> <w>tíma</w>. <w>ær</w> <w>þan</w> <!-- nonstandard spacing --> <w>þe</w> <w>hé</w> <w>acenned</w> <w>wære</w>. <w>ac</w>
-					<lb n="9" /><w><!-- thorn-with-stroke --> þæt</w> <w>halige</w> <w>godspéll</w> <w>hæfð</w> <w>oferswiðod</w> <w>swylcera</w> <w>gedwolena</w>
+					<lb n="8" />niende</w>. <w>ac</w> <w>wære</w> <w>sum</w> <w>tima</w>. <w>ær</w> <w>þan</w> <!-- nonstandard spacing --> <w>þe</w> <w>he</w> <w>acenned</w> <w>wære</w>. <w>ac</w>
+					<lb n="9" /><w><!-- thorn-with-stroke --> þæt</w> <w>halige</w> <w>godspell</w> <w>hæfð</w> <w>oferswiðod</w> <w>sw<!-- diacritic -->ylcera</w> <w>gedwolena</w>
 					<lb n="10" /><w>andgit</w> <w>foroft</w>. <!-- nonstandard spacing --> <w>Þa</w> <w>iudeiscan</w> <w>axodon</w> <w>crist</w> <w>hwæt</w> <w>he</w> <w>wære</w>.
-					<lb n="11" /><w>Ða</w> <w>andwyrde</w> <w>he</w> <w>him</w> <w>þus</w>. <!-- begin latin quote --><w>Ego</w> <w>súm</w>
+					<lb n="11" /><w>Ða</w> <w>andw<!-- diacritic -->yrde</w> <w>he</w> <w>him</w> <w>þus</w>. <!-- begin latin quote --><w>Ego</w> <w>sum</w>
 						<w><choice>
 							<abbr>principiu<macron/></abbr>
 							<expan>principium</expan>
@@ -181,29 +183,29 @@
 							<expan>et</expan>
 						</choice></w>
 						 <w>lo
-					<lb n="12" />quor</w> <w>uobis</w><!-- end latin -->. <w>Ic</w> <w>eom</w> <w>angínn</w>. <w>þe</w> <w>eow</w> <w>to</w> <w>spræce</w>. <!-- nonstandard spacing --> <w>Nu</w> <w>ge</w> <w>habbað</w>
-					<lb n="13" /><w>gehered</w> <!-- nonstandard spacing --> <w>hu</w> <w>se</w> <w>hælend</w> <w>be</w> <w>him</w> <w>sylfum</w> <w>sprǽc</w>. <w><!-- thorn-with-stroke; nonstandard spacing --> þæt</w> <w>hé</w> <w>is</w> <w>ordfru
-					<lb n="14" />ma</w>. <w><!-- tironian mark --> and</w> <w>angin</w> <w>ealra</w> <w>þinga</w>. <w>mid</w> <w>his</w> <w>heofonlican</w> <w>fæder</w>. <w><!-- tironian mark --> and</w> <w>mid</w> <w>þam</w> <w>halgan</w> <w>gaste</w>. <w>Se</w> <w>fæder</w> <w>is</w> <w>ángin</w>. <w><!-- tironian mark --> and</w> <w>se</w> <w>sunu</w> <w>ís</w> <w>angin</w>.
-					<lb n="15" /><w><!-- tironian mark --> and</w> <w>se</w> <w>halga</w> <w>gást</w> <w>ís</w> <w>angin</w>. <w>ác</w> <w>hí</w> <!-- nonstandard spacing --> <w>ne</w> <w>synd</w> <w>na</w> <w>þreo</w> <w>anginnu</w>. <w>ác</w>
-					<lb n="16" /><w>hí</w> <w>ealle</w> <w>þry</w> <w>synden</w> <w>án</w> <w>angin</w>. <w><!-- tironian mark --> and</w> <w>án</w> <w>ælmihtig</w> <w>god</w> <w>æfre</w> <w>ún</w>
-					<lb n="17" /><w>begunnen</w>. <w><!-- tironian mark --> and</w> <w>úngeændod</w>. <!-- nonstandard spacing --> <w>ac</w> <w>se</w> <w>man</w> <w>wǽt</w> <w>þe</w> <w>wyle</w> <w>habban</w> <w>ænig</w>
-					<lb n="18" /><w>þincg</w> <w>ǽr</w> <w>anginne</w>. <w>forþan</w> <!-- nonstandard spacing --> <w>ðe</w> <w>seo</w> <w>halige</w> <w>þrynnes</w>. <w>is</w> <w>an
-					<lb n="19" />ginn</w>. <w><!--tironian mark --> and</w> <!--nonstandard spacing --> <w>án</w> <w>scyppend</w> <w>ealra</w> <w>gesceafta</w> <w><!-- tironian mark --> and</w> <w>nan</w> <w>þing</w> <w>næs</w> <w>ne</w>
-					<lb n="20" /><w>nys</w> <w>wuniende</w>. <!-- nonstandard spacing --> <w>þe</w> <w>se</w> <w>an</w> <w>wyrhta</w> <!-- nonstandard spacing --> <w>ne</w> <w>gesceope</w>; <w>Gif</w> <w>hwylc</w>
-					<lb n="21" /><w>gedwola</w>. <w>oððe</w> <w>awoffod</w> <w>man</w>. <w>wyle</w> <w>furðor</w> <w>smeagen</w> <w><!-- tironian mark --> and</w> <w>þæt</w>
-					<lb n="22" /><w>anginn</w> <w>oferstígan</w>. <w>mid</w> <w>dysilicere</w> <w>dyrstignesse</w>. 
+					<lb n="12" />quor</w> <w>uobis</w><!-- end latin -->. <w>Ic</w> <w>eom</w> <w>anginn</w>. <w>þe</w> <w>eow</w> <w>to</w> <w>spræce</w>. <!-- nonstandard spacing --> <w>Nu</w> <w>ge</w> <w>habbað</w>
+					<lb n="13" /><w>gehered</w> <!-- nonstandard spacing --> <w>hu</w> <w>se</w> <w>hælend</w> <w>be</w> <w>him</w> <w>s<!-- diacritic -->ylfum</w> <w>spræc</w>. <w><!-- thorn-with-stroke; nonstandard spacing --> þæt</w> <w>he</w> <w>is</w> <w>ordfru
+					<lb n="14" />ma</w>. <w><!-- tironian mark --> and</w> <w>angin</w> <w>ealra</w> <w>þinga</w>. <w>mid</w> <w>his</w> <w>heofonlican</w> <w>fæder</w>. <w><!-- tironian mark --> and</w> <w>mid</w> <w>þam</w> <w>halgan</w> <w>gaste</w>. <w>Se</w> <w>fæder</w> <w>is</w> <w>angin</w>. <w><!-- tironian mark --> and</w> <w>se</w> <w>sunu</w> <w>ís</w> <w>angin</w>.
+					<lb n="15" /><w><!-- tironian mark --> and</w> <w>se</w> <w>halga</w> <w>gast</w> <w>is</w> <w>angin</w>. <w>ac</w> <w>hi</w> <!-- nonstandard spacing --> <w>ne</w> <w>s<!-- diacritic -->ynd</w> <w>na</w> <w>þreo</w> <w>anginnu</w>. <w>ac</w>
+					<lb n="16" /><w>hi</w> <w>ealle</w> <w>þr<!-- diacritic -->y</w> <w>s<!-- diacritic -->ynden</w> <w>an</w> <w>angin</w>. <w><!-- tironian mark --> and</w> <w>an</w> <w>ælmihtig</w> <w>god</w> <w>æfre</w> <w>un</w>
+					<lb n="17" /><w>begunnen</w>. <w><!-- tironian mark --> and</w> <w>ungeændod</w>. <!-- nonstandard spacing --> <w>ac</w> <w>se</w> <w>man</w> <w>wæt</w> <w>þe</w> <w>w<!-- diacritic -->yle</w> <w>habban</w> <w>ænig</w>
+					<lb n="18" /><w>þincg</w> <w>ær</w> <w>anginne</w>. <w>forþan</w> <!-- nonstandard spacing --> <w>ðe</w> <w>seo</w> <w>halige</w> <w>þr<!-- diacritic -->ynnes</w>. <w>is</w> <w>an
+					<lb n="19" />ginn</w>. <w><!--tironian mark --> and</w> <!--nonstandard spacing --> <w>án</w> <w>sc<!-- diacritic -->yppend</w> <w>ealra</w> <w>gesceafta</w> <w><!-- tironian mark --> and</w> <w>nan</w> <w>þing</w> <w>næs</w> <w>ne</w>
+					<lb n="20" /><w>n<!-- diacritic -->ys</w> <w>wuniende</w>. <!-- nonstandard spacing --> <w>þe</w> <w>se</w> <w>an</w> <w>w<!-- diacritic -->yrhta</w> <!-- nonstandard spacing --> <w>ne</w> <w>gesceope</w>; <w>Gif</w> <w>hw<!-- diacritic -->ylc</w>
+					<lb n="21" /><w>gedwola</w>. <w>oððe</w> <w>awoffod</w> <w>man</w>. <w>w<!-- diacritic -->yle</w> <w>furðor</w> <w>smeagen</w> <w><!-- tironian mark --> and</w> <w>þæt</w>
+					<lb n="22" /><w>anginn</w> <w>oferstigan</w>. <w>mid</w> <w>d<!-- diacritic -->ysilicere</w> <w>d<!-- diacritic -->yrstignesse</w>. 
 						<w><choice>
 							<abbr>þonn<macron/></abbr>
 							<expan>þonne</expan>
 						</choice></w>
-					<lb n="23" /><w>bið</w> <w>he</w> <w>þam</w> <w>men</w> <w>gelíc</w> <!-- nonstandard spacing --> <w>þe</w> <w>arærþ</w> <w>sume</w> <w>heage</w> <w>hlæddre</w>. <!-- tironian mark --> <w>and</w>
+					<lb n="23" /><w>bið</w> <w>he</w> <w>þam</w> <w>men</w> <w>gelic</w> <!-- nonstandard spacing --> <w>þe</w> <w>arærþ</w> <w>sume</w> <w>heage</w> <w>hlæddre</w>. <!-- tironian mark --> <w>and</w>
 					<lb n="24" /><w>stihð</w> <!-- nonstandard spacing --> <w>be</w> <w>þære</w> <w>hlæddre</w> <w>stapum</w>. <!-- thorn-with-stroke --> <w>oðþæt</w> <w>he</w> <!-- nonstandard spacing --> <w>to</w> <w>ðæm</w> <w>ænde</w> <w>be</w>
 					<lb n="25" /><w>cume</w>. <!-- tironian mark --> <w>and</w> <w>wylle</w> 
 						<w><choice>
 							<abbr>þonn<macron/></abbr>
-						<expan>þonne</expan>
+							<expan>þonne</expan>
 						</choice></w>
-						 <w>git</w> <w>stígan</w> <w>ufor</w>. <w>astihð</w>
+						 <w>git</w> <w>stigan</w> <w>ufor</w>. <w>astihð</w>
 						<w><choice>
 							<abbr>þonn<macron/></abbr>
 							<expan>þonne</expan>
@@ -214,15 +216,15 @@
 							<abbr>stapu<macron/></abbr>
 							<expan>stapum</expan>
 						</choice></w>
-						. <w>oðþæt</w> <w>he</w> <w>stedeleas</w> <w>fylþ</w> <w>mid</w> <w>mycclum</w> <w>wyrsan</w>
-					<lb n="27" /><w>fylle</w> <!-- nonstandard spacing --> <w>swa</w> <w>he</w> <w>furðor</w> <w>stáh</w>. <w>Ðreo</w> <w>þing</w> <w>synd</w> <w>on</w> <w>middan</w>
-					<lb n="28" /><w>earde</w>. <w>án</w> <w>is</w> <w><!-- hwilwendlic --></w>. <w>þe</w> <w>hæfð</w> <w>ægðer</w> <w>ge</w> 
+						. <w>oðþæt</w> <w>he</w> <w>stedeleas</w> <w>f<!-- diacritic -->ylþ</w> <w>mid</w> <w>m<!-- diacritic -->ycclum</w> <w>w<!-- diacritic -->yrsan</w>
+					<lb n="27" /><w>f<!-- diacritic -->ylle</w> <!-- nonstandard spacing --> <w>swa</w> <w>he</w> <w>furðor</w> <w>stah</w>. <w>Ðreo</w> <w>þing</w> <w>s<!-- diacritic -->ynd</w> <w>on</w> <w>middan</w>
+					<lb n="28" /><w>earde</w>. <w>an</w> <w>is</w> <w><!-- hwilwendlic --></w>. <w>þe</w> <w>hæfð</w> <w>ægðer</w> <w>ge</w> 
 						<w><choice>
 							<abbr>ordfru<macron/>man</abbr>
 							<expan>ordfrumman</expan>
 						</choice></w>
 					<!-- lines 31-60 pending review -->
-					<lb n="29" /><w>ge</w> <w>ende</w>. <w><!-- thorn-with-stroke --> þæt</w> <w>synd</w> <w>nytenu</w>. <w><!-- tironian mark --> and</w> <w>ealle</w> <w>sawullease</w> <w>þing</w> <w>þe</w> <w>on</w>
+					<lb n="29" /><w>ge</w> <w>ende</w>. <w><!-- thorn-with-stroke --> þæt</w> <w>s<!-- diacritic -->ynd</w> <w>n<!-- diacritic -->ytenu</w>. <w><!-- tironian mark --> and</w> <w>ealle</w> <w>sawullease</w> <w>þing</w> <w>þe</w> <w>on</w>
 					<lb n="30" /><w>gunnan</w> <w>þa</w> <w>þa</w> <w>hí</w> <w>god</w> <w>gesceop</w>. <w><!-- tironian mark --> and</w> <w>æft</w> <w>geændiað</w> <w><!-- tironian mark --> and</w> <w>to</w> <w>nahte</w>
 				<pb n="2" />
 					<lb n="31" />gewurðaþ. Oðer þing ís éce. swa <!-- thorn-with-stroke --> þæt hit hæfð ordfruman.
