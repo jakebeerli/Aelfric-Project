@@ -171,27 +171,27 @@
 			</div>
 			<ab>
 				<lb n="1" />
-					<hi style="font-variant: smallcaps"><w><hi rend="decorInit 3lines" >M</hi>
+					<hi style="font-variant: smallcaps"><w><hi rend="decorInit 3lines">M</hi>
 					en</w> <w>ða</w> <w>leofestan</w> <w>hwilon</w> <w>ær</w> <w>we</w> <w>sædon</w> <w>eow</w> <w>hy</w> <w>ure</w></hi>
 				<lb n="2" /><w>hælend</w> <w>crist</w> <w>on</w> <w>þisum</w> <w>dæge</w> <w>on</w> <w>soðre</w> <w>menniscnẏsse</w> <w>acen
 				<lb n="3" />ned</w> <w>wæs</w> <w>of</w> <w>þæm</w> <w>halgan</w> <w>mædene</w> <w>marian</w> · <w>Nu</w> <w>wẏlle</w> <w>we</w>
 				<lb n="4" /><w>swaþeah</w> <w>for</w> <w>ðẏses</w> <w>dæges</w> <w>mærðe</w> <w>eower</w> <w>mod</w> <w>mid</w> <w>þære</w> <w>gast
 				<lb n="5" />lican</w> <w>lare</w> <w>onbrẏrdan</w> <w>eow</w> <w>to</w> <w>blisse</w> <w>þurh</w> <w>god</w> · <w>Sume</w> <w>gedwol</w>
-				<lb n="6" /><w>menn</w> <w>wæron</w> <w>þuruh</w> <w>deoful</w> <w>beswicane</w> <!-- nonstandard spacing -->
+				<lb n="6" /><w>menn</w> <w>wæron</w> <w>þuruh</w> <w>deoful</w> <w>beswicane</w>
 					<w><choice>
 						<abbr>ꝥ</abbr>
 						<expan>þæt</expan>
 					</choice></w>
 					<w>swa</w> <w>þæt</w> <w>hi</w> <w>cwædon</w> <w>þæt</w>
 				<lb n="7" /><w>crist</w> <w>godes</w> <w>sunu</w> <w>nære</w> <w>æfre</w> <w>mid</w> <w>þam</w> <w>halgan</w> <w>fæder</w> <w>wu
-				<lb n="8" />niende</w> · <w>ac</w> <w>wære</w> <w>sum</w> <w>tima</w> · <w>ær</w> <w>þan</w> <!-- nonstandard spacing --> <w>þe</w> <w>he</w> <w>acenned</w> <w>wære</w> · <w>ac</w>
+				<lb n="8" />niende</w> · <w>ac</w> <w>wære</w> <w>sum</w> <w>tima</w> · <w>ær</w> <w>þan</w> <w>þe</w> <w>he</w> <w>acenned</w> <w>wære</w> · <w>ac</w>
 				<lb n="9" />
 					<w><choice>
 						<abbr>ꝥ</abbr>
 						<expan>þæt</expan>
 					</choice></w>
 					<w>halige</w> <w>godspell</w> <w>hæfð</w> <w>oferswiðod</w> <w>swẏlcera</w> <w>gedwolena</w>
-				<lb n="10" /><w>andgit</w> <w>foroft</w> · <!-- nonstandard spacing --> <w>Þa</w> <w>iudeiscan</w> <w>axodon</w> <w>crist</w> <w>hwæt</w> <w>he</w> <w>wære</w> ·
+				<lb n="10" /><w>andgit</w> <w>foroft</w> · <w>Þa</w> <w>iudeiscan</w> <w>axodon</w> <w>crist</w> <w>hwæt</w> <w>he</w> <w>wære</w> ·
 				<lb n="11" /><w>Ða</w> <w>andwẏrde</w> <w>he</w> <w>him</w> <w>þus</w> · 
 					<cit>
 						<foreign xml:lang="la"><w>Ego</w> <w>sum</w>
@@ -210,8 +210,8 @@
 						<quote type="translation"><w>Ic</w> <w>eom</w> <w>anginn</w> · <w>þe</w> <w>eow</w> <w>to</w> <w>spræce</w> · </quote>
 						<bibl>John 8:25</bibl>
 					</cit>
-					<!-- nonstandard spacing --> <w>Nu</w> <w>ge</w> <w>habbað</w>
-				<lb n="13" /><w>gehered</w> <!-- nonstandard spacing --> <w>hu</w> <w>se</w> <w>hælend</w> <w>be</w> <w>him</w> <w>sẏlfum</w> <w>spræc</w> · <!-- nonstandard spacing -->
+					<w>Nu</w> <w>ge</w> <w>habbað</w>
+				<lb n="13" /><w>gehered</w> <w>hu</w> <w>se</w> <w>hælend</w> <w>be</w> <w>him</w> <w>sẏlfum</w> <w>spræc</w> · 
 					<w><choice>
 						<abbr>ꝥ</abbr>
 						<expan>þæt</expan>
@@ -239,7 +239,7 @@
 						<abbr>⁊</abbr>
 						<expan>and</expan>
 					</choice></w>
-					<w>se</w> <w>halga</w> <w>gast</w> <w>is</w> <w>angin</w> · <w>ac</w> <w>hi</w> <!-- nonstandard spacing --> <w>ne</w> <w>sẏnd</w> <w>na</w> <w>þreo</w> <w>anginnu</w> · <w>ac</w>
+					<w>se</w> <w>halga</w> <w>gast</w> <w>is</w> <w>angin</w> · <w>ac</w> <w>hi</w> <w>ne</w> <w>sẏnd</w> <w>na</w> <w>þreo</w> <w>anginnu</w> · <w>ac</w>
 				<lb n="17" /><w>hi</w> <w>ealle</w> <w>þrẏ</w> <w>sẏnden</w> <w>an</w> <w>angin</w> · 
 					<w><choice>
 						<abbr>⁊</abbr>
@@ -251,20 +251,20 @@
 						<abbr>⁊</abbr>
 						<expan>and</expan>
 					</choice></w>
-					<w>ungeændod</w> · <!-- nonstandard spacing --><w>ac</w> <w>se</w> <w>man</w> <w>wæt</w> <w>þe</w> <w>wẏle</w> <w>habban</w> <w>ænig</w>
-				<lb n="19" /><w>þincg</w> <w>ær</w> <w>anginne</w> · <w>forþan</w> <!-- nonstandard spacing --> <w>ðe</w> <w>seo</w> <w>halige</w> <w>þrẏnnes</w> · <w>is</w> <w>an
+					<w>ungeændod</w> · <w>ac</w> <w>se</w> <w>man</w> <w>wæt</w> <w>þe</w> <w>wẏle</w> <w>habban</w> <w>ænig</w>
+				<lb n="19" /><w>þincg</w> <w>ær</w> <w>anginne</w> · <w>forþan</w> <w>ðe</w> <w>seo</w> <w>halige</w> <w>þrẏnnes</w> · <w>is</w> <w>an
 				<lb n="20" />ginn</w> ·
 					<w><choice>
 						<abbr>⁊</abbr>
 						<expan>and</expan>
 					</choice></w>
-					<!--nonstandard spacing --> <w>an</w> <w>scẏppend</w> <w>ealra</w> <w>gesceafta</w>
+					 <w>an</w> <w>scẏppend</w> <w>ealra</w> <w>gesceafta</w>
 					<w><choice>
 						<abbr>⁊</abbr>
 						<expan>and</expan>
 					</choice></w>
 					<w>nan</w> <w>þing</w> <w>næs</w> <w>ne</w>
-				<lb n="21" /><w>nẏs</w> <w>wuniende</w> · <!-- nonstandard spacing --> <w>þe</w> <w>se</w> <w>an</w> <w>wẏrhta</w> <!-- nonstandard spacing --> <w>ne</w> <w>gesceope</w>; <w>Gif</w> <w>hwẏlc</w>
+				<lb n="21" /><w>nẏs</w> <w>wuniende</w> · <w>þe</w> <w>se</w> <w>an</w> <w>wẏrhta</w> <w>ne</w> <w>gesceope</w>; <w>Gif</w> <w>hwẏlc</w>
 				<lb n="22" /><w>gedwola</w> · <w>oððe</w> <w>awoffod</w> <w>man</w> · <w>wẏle</w> <w>furðor</w> <w>smeagen</w>
 					<w><choice>
 						<abbr>⁊</abbr>
@@ -276,17 +276,17 @@
 						<abbr>þonn̄</abbr>
 						<expan>þonne</expan>
 					</choice></w>
-				<lb n="24" /><w>bið</w> <w>he</w> <w>þam</w> <w>men</w> <w>gelic</w> <!-- nonstandard spacing --> <w>þe</w> <w>arærþ</w> <w>sume</w> <w>heage</w> <w>hlæddre</w> · 
+				<lb n="24" /><w>bið</w> <w>he</w> <w>þam</w> <w>men</w> <w>gelic</w> <w>þe</w> <w>arærþ</w> <w>sume</w> <w>heage</w> <w>hlæddre</w> · 
 					<w><choice>
 						<abbr>⁊</abbr>
 						<expan>and</expan>
 					</choice></w>
-				<lb n="25" /><w>stihð</w> <!-- nonstandard spacing --> <w>be</w> <w>þære</w> <w>hlæddre</w> <w>stapum</w> · 
+				<lb n="25" /><w>stihð</w> <w>be</w> <w>þære</w> <w>hlæddre</w> <w>stapum</w> · 
 					<w><choice>
 						<abbr>ꝥ</abbr>
 						<expan>þæt</expan>
 					</choice></w>
-					<w>oðþæt</w> <w>he</w> <!-- nonstandard spacing --> <w>to</w> <w>ðæm</w> <w>ænde</w> <w>be</w>
+					<w>oðþæt</w> <w>he</w> <w>to</w> <w>ðæm</w> <w>ænde</w> <w>be</w>
 				<lb n="26" /><w>cume</w> · 
 					<w><choice>
 						<abbr>⁊</abbr>
@@ -309,7 +309,7 @@
 						<expan>stapum</expan>
 					</choice></w>
 					· <w>oðþæt</w> <w>he</w> <w>stedeleas</w> <w>fẏlþ</w> <w>mid</w> <w>mẏcclum</w> <w>wẏrsan</w>
-				<lb n="28" /><w>fẏlle</w> <!-- nonstandard spacing --> <w>swa</w> <w>he</w> <w>furðor</w> <w>stah</w> · <w>Ðreo</w> <w>þing</w> <w>sẏnd</w> <w>on</w> <w>middan</w>
+				<lb n="28" /><w>fẏlle</w> <w>swa</w> <w>he</w> <w>furðor</w> <w>stah</w> · <w>Ðreo</w> <w>þing</w> <w>sẏnd</w> <w>on</w> <w>middan</w>
 				<lb n="29" /><w>earde</w> · <w>an</w> <w>is</w> <w>hwilwendlic</w> · <w>þe</w> <w>hæfð</w> <w>ægðer</w> <w>ge</w> 
 					<w><choice>
 						<abbr>ordfrūman</abbr>
