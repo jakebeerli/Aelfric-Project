@@ -130,7 +130,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb n="1" xml:id="fol_5v" facs="data/images/fol_5v.png" />
+			<pb n="1" facs="data/images/fol_5v.png" />
 			<div type="sermon">
 				<!-- NOTE: (ad) VIII Kalendas = 25 December on the Julian calendar, which in Aelfric's time would have corresponded to Dec 30/31 on the Gregorian calendar but today corresponds to Jan 7. -->
 				<head style="text-align: center; font-variant: smallcaps">
@@ -337,7 +337,7 @@
 						<expan>and</expan>
 					</choice></w>
 					<w>to</w> <w>nahte</w>
-			<pb n="2" />
+			<pb n="6r" facs="data/images/fol_6r.png" />
 				<!-- line numbers need correction beyond this point -->
 				<!-- pending review -->
 				<lb n="31" />gewurðaþ. Oðer þing ís éce. swa <!-- thorn-with-stroke --> þæt hit hæfð ordfruman.
@@ -373,7 +373,7 @@
 				<lb n="60" />man. swá swá wurmas doð. Sume gað on twam fotum.
 				<lb n="61" />sume on feower fotum. Sume fleoð mid fyðerum. Sume
 				<lb n="62" />on flodum swimmað.  and hí ealle swaþæh alotene beoð
-			<pb n="3" />
+			<pb n="6v" facs="data/images/fol_6v.png" />
 				<lb n="63" />to þære eorðanweard. and þider wilniað. oððe þæs þe him lyst.
 				<lb n="64" />oððe þæs þe hí beþurfon. ác se mán ana gæð úprihte.
 				<lb n="65" />þæt getacnað. þæt hé sceall má þæncan úpp. þonne nyðer.
@@ -407,7 +407,7 @@
 				<lb n="92" />þinges. swa mycel neod. swa him bið þæt he cunne þonne
 				<lb n="93" />ælmihtigan god mid geleafan. and siþþan his agene
 				<lb n="94" />sawle. We habbað eow oft gesæd eowerne geleafan
-			<pb n="4" />
+			<pb n="7r" facs="data/images/fol_7r.png" />
 				<lb n="95" />be þære halgan ðrynnysse. Nu wylle wé eow sum þing
 				<lb n="96" />be eowre sawle sæccgan. sceortlice gif wé magon.
 				<lb n="97" />Ealle þa geleaffullan fæderas þe godes lare awri
@@ -441,7 +441,7 @@
 				<lb n="124" />þæt yrre bið on yfel awend. þonne cymð of þam unrot
 				<lb n="125" />nisse. and æmylnysse. Gescead is ðære sawle forgi
 				<lb n="126" />fen to gewyssiene and to styrenne hire agen lif.
-			<pb n="5" />
+			<pb n="7v" facs="data/images/fol_7v.png" />
 				<lb n="127" />and ealle hire dæda. Of þam gesceade gif hit miswænt. cymð
 				<lb n="128" />modignysse and ydelgylp. Gescead wexð on cildrum na seo
 				<lb n="129" />sawul. and seo sawul þihþ on mægenum. and ne bið na mare þonne
@@ -475,7 +475,7 @@
 				<lb n="156" />salém. oððe þonne heo smeað be anum þing. ne mæg
 				<lb n="157" />heo þa hwyle be oðrum þinge smeagen. ác bið gebys
 				<lb n="158" />god mid þam anum ðinge oðþæt þæt geþoht gewyte.
-			<pb n="6" />
+			<pb n="8r" facs="data/images/fol_8r.png" />
 				<lb n="159" />and oðer cume. Witodlice god ælmihtig wát ealle þing togæ
 				<lb n="160" />dere. and ealle þing hæfð on his andwerdnysse. and hí æfre
 				<lb n="161" />beoþ ón his gesihþe. and næfre him úncuþe. and þis ís þæt
@@ -509,7 +509,7 @@
 				<lb n="188" />þære sceall seo sawul ealle þing gemætegian. <!-- þæt --> hit
 				<lb n="189" />to swiþe <!-- ne sy -->. <!-- ne to --> hwonlice. for ðan þe hit is awry
 				<lb n="190" />ten. <!-- Omnia nimia nocent -->. <!-- þæt --> is ealle oferdone
-			<pb n="7" />
+			<pb n="8v" facs="data/images/fol_8v.png" />
 				<lb n="191" />þing <!-- dæriað -->. <!-- Witto -->lice gemetgung is eallra mæge
 				<lb n="192" />na <!-- modor. --> þæt feorðe mægen is. <!-- Fortitudo -->. <!-- þæt --> is <!-- strænð -->
 				<lb n="193" />oððe anr<!-- æ -->nyss. þurh þa sceal seo sawul forbæ
@@ -541,7 +541,7 @@
 				<lb n="219" />scead. þonn<!-- e --> heo to scæt. Heo is <!-- uoluntas -->. <!-- þæt --> is
 				<lb n="220" />wylla. þonn<!-- e --> heo hwæt wyle. Ac<!-- spacing -->swa<!-- space? --> þeah ealle
 				<lb n="221" />þas naman syndon sawul. ælc sawul is gast. ac
-			<pb n="8" />
+			<pb n="9r" facs="data/images/fol_9r.png" />
 				<lb n="222" />swa<!-- space? --> þeah nis na ælc gast sawul. Se<!-- spacing -->apostol paulus
 				<lb n="223" />to<!-- space --> twæmde þæs gastes naman. <!-- and --> þæs modes þus cwæ<!-- - -->
 				<lb n="224" />ðende. <!-- Psalla spiritu psalla et mente -->. Þæt is on æn<!-- - -->
@@ -574,7 +574,7 @@
 				<lb n="241" />swa sunne on heora fader rice. Witodlice þa ar<!-- - -->
 				<lb n="242" /><!-- leasan beoð heora yfelum weorcum gelice. --> Nis <!-- seo -->
 				<lb n="243" />orþung þe we ut blawaþ. <!-- and -->in ateoð oððe ure<!-- --> sawul
-			<pb n="9" />
+			<pb n="9v" facs="data/images/fol_9v.png" />
 				<lb n="244" />ac is seo lyft þe ealle lichamlice þing on<!-- spacing -->lybbað. butan
 				<lb n="245" />fi<!-- x -->um anu<!-- m --> þe on flodu<!-- m --> lybbað. Oft bið seo sawul on anu<!-- m -->
 				<lb n="246" />þinge. oððe on anum geþohte. swa bysig <!-- þæt -->heo ne gymð hwa
