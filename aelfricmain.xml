@@ -130,7 +130,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb n="1" facs="data/images/fol_5v.png" />
+			<pb n="5v" facs="data/images/fol_5v.png" />
 			<div type="sermon">
 				<!-- NOTE: (ad) VIII Kalendas = 25 December on the Julian calendar, which in Aelfric's time would have corresponded to Dec 30/31 on the Gregorian calendar but today corresponds to Jan 7. -->
 				<head style="text-align: center; font-variant: smallcaps">
@@ -207,7 +207,7 @@
 							<w>lo
 							<lb n="12" />quor</w> <w>uobis</w> · 
 						</foreign>
-						<quote type="translation" ref=""><w>Ic</w> <w>eom</w> <w>anginn</w> · <w>þe</w> <w>eow</w> <w>to</w> <w>spræce</w> · </quote>
+						<w>Ic</w> <w>eom</w> <w>anginn</w> · <w>þe</w> <w>eow</w> <w>to</w> <w>spræce</w> · 
 					</cit>
 					<w>Nu</w> <w>ge</w> <w>habbað</w>
 				<lb n="13" /><w>gehered</w> <w>hu</w> <w>se</w> <w>hælend</w> <w>be</w> <w>him</w> <w>sẏlfum</w> <w>spræc</w> · 
