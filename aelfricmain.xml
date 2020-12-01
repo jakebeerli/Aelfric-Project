@@ -194,7 +194,7 @@
 				<lb n="10" /><w>andgit</w> <w>foroft</w> · <w>Þa</w> <w>iudeiscan</w> <w>axodon</w> <w>crist</w> <w>hwæt</w> <w>he</w> <w>wære</w> ·
 				<lb n="11" /><w>Ða</w> <w>andwẏrde</w> <w>he</w> <w>him</w> <w>þus</w> · 
 					<cit>
-						<foreign xml:lang="la"><w>Ego</w> <w>sum</w>
+						<foreign xml:lang="la" source="John 8:25"><w>Ego</w> <w>sum</w>
 							<w><choice>
 								<abbr>principiū</abbr>
 								<expan>principium</expan>
@@ -207,8 +207,7 @@
 							<w>lo
 							<lb n="12" />quor</w> <w>uobis</w> · 
 						</foreign>
-						<quote type="translation"><w>Ic</w> <w>eom</w> <w>anginn</w> · <w>þe</w> <w>eow</w> <w>to</w> <w>spræce</w> · </quote>
-						<bibl>John 8:25</bibl>
+						<quote type="translation" ref=""><w>Ic</w> <w>eom</w> <w>anginn</w> · <w>þe</w> <w>eow</w> <w>to</w> <w>spræce</w> · </quote>
 					</cit>
 					<w>Nu</w> <w>ge</w> <w>habbað</w>
 				<lb n="13" /><w>gehered</w> <w>hu</w> <w>se</w> <w>hælend</w> <w>be</w> <w>him</w> <w>sẏlfum</w> <w>spræc</w> · 
