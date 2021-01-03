@@ -649,7 +649,7 @@
 					</choice></w> 
 					<w>seo</w> <w>hætu</w> <w>gæð</w> <w>of</w> <w>þære</w> <w>sunnan</w> · <w>and</w> <w>of</w> <w>hire</w> <w>leoh
 				<lb n="86" />te</w> <w>gelice</w> · <w>Swa</w> <w>eac</w> <w>þæs</w> <w>ælmihtigan</w> <w>godes</w> <w>sunu</w> <w>is</w>
-				<lb n="87" />æfre</w> <w>of</w> <w>þæm</w> <w>fæder</w> <w>acenned</w> · <w>soð</w> <w>leoht</w> · 
+				<lb n="87" /><w>æfre</w> <w>of</w> <w>þæm</w> <w>fæder</w> <w>acenned</w> · <w>soð</w> <w>leoht</w> · 
 					<w><choice>
 						<abbr>⁊</abbr>
 						<expan>and</expan>
@@ -694,7 +694,7 @@
 					<w>menn</w> <w>on</w> <w>ðisum</w> <w>deadlican</w> <w>life</w> 
 					<w>libbend<choice>
 						<abbr>ū</abbr>
-						<expan>um</abbr>
+						<expan>um</expan>
 					</choice></w>
 					<w>nanes</w>
 				<lb n="93" /><w>þinges</w> · <w>swa</w> <w>mẏcel</w> <w>neod</w> · <w>swa</w> <w>him</w> <w>bið</w> 
@@ -1511,7 +1511,7 @@
 					</choice></w> 
 					<foreign xml:lang="la"><choice>
 						<abbr>Spr</abbr>
-						<expan>Spiritus</abbr>
+						<expan>Spiritus</expan>
 					</choice></foreign> 
 					<w>gast</w> · <w>belimpð</w>
 				<lb n="215" /><w>to</w> <w>hire</w> <w>ẏmbwlatunge</w> · <w>Heo</w> <w>is</w> <foreign xml:lang="la">sensus</foreign> · 
@@ -1659,7 +1659,7 @@
 						<expan>gehwylcum</expan>
 					</choice></w> 
 					lime bebeode to donne · oððe hwæt heo <w>ge
-				<lb n="240" /><w><choice>
+				<lb n="240" /><choice>
 						<abbr>hwylcū</abbr>
 						<expan>hwylcum</expan>
 					</choice></w> 
@@ -1704,7 +1704,7 @@
 				<lb n="251" /><w><choice>
 						<abbr>eorū</abbr>
 						<expan>eorum</expan>
-					</choice></w> · 
+					</choice></w></foreign> · 
 					<w><choice>
 						<abbr>Ꝥ</abbr>
 						<expan>Þæt</expan>
