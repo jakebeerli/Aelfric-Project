@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader xml:lang="en">
-		<!-- bibliographic, technical, cataloguing information, etc · NOT the main text, but essential for a valid TEI document -->
+		<!-- bibliographic, technical, cataloguing information, etc. NOT the main text, but essential for a valid TEI document -->
 		<fileDesc>
 			<titleStmt>
 				<title>Aelfric's Lives of Saints: A Digital Edition</title>
@@ -24,11 +24,11 @@
 				</respStmt>
 				<respStmt>
 					<resp>Manuscription description and transcription by</resp>
-						<name>Theodore A · Leinbaugh</name>
+						<name>Theodore A. Leinbaugh</name>
 					<resp>Manuscript markup by</resp>
 						<name>Jake Beerli and Hunter Corb</name>
 					<resp>Old English Glossary compiled by</resp>
-						<name>Joshua Pontillo and Theodore A · Leinbaugh</name>
+						<name>Joshua Pontillo and Theodore A. Leinbaugh</name>
 				</respStmt>
 				<extent/>
 			</titleStmt>
@@ -132,7 +132,7 @@
 		<body>
 			<pb n="5v" facs="data/images/fol_5v.png" />
 			<div type="sermon">
-				<!-- NOTE: (ad) VIII Kalendas = 25 December on the Julian calendar, which in Aelfric's time would have corresponded to Dec 30/31 on the Gregorian calendar but today corresponds to Jan 7 · -->
+				<!-- NOTE: (ad) VIII Kalendas = 25 December on the Julian calendar, which in Aelfric's time would have corresponded to Dec 30/31 on the Gregorian calendar but today corresponds to Jan 7. -->
 				<head style="text-align: center; font-variant: smallcaps">
 					<foreign xml:lang="la">
 					<num val="8">
@@ -149,7 +149,7 @@
 						<abbr>IAN<macron/></abbr>
 						<expan>IANUARII</expan>
 					</choice>
-					 · NATIVITAS
+					. NATIVITAS
 					<choice>
 						<abbr>DN<macron/>I</abbr>
 						<expan>DOMINI</expan>
