@@ -22,7 +22,7 @@
 					<!-- the responsibility statement allows specification of jobs and those who did them -->
 				</respStmt>
 				<respStmt>
-					<resp>Manuscription description and transcription by</resp>
+					<resp>Manuscript description and transcription by</resp>
 						<name>Theodore A. Leinbaugh</name>
 					<resp>Manuscript markup by</resp>
 						<name>Jake Beerli and Hunter Corb</name>
@@ -178,8 +178,7 @@
 								<decoNote type="initial">
 										<p>One 3 line ornamented capital with a further four-line tail commencing the sermon.</p>
 									</decoNote>
-								</decoDesc>
-							en</w> <w>ða</w> <w>leofestan</w> <w>hwilon</w> <w>ær</w> <w>we</w> <w>sædon</w> <w>eow</w> <w>hy</w> <w>ure</w></hi>
+								</decoDesc>en</w> <w>ða</w> <w>leofestan</w> <w>hwilon</w> <w>ær</w> <w>we</w> <w>sædon</w> <w>eow</w> <w>hy</w> <w>ure</w></hi>
 						<lb n="2" /><w>hælend</w> <w>crist</w> <w>on</w> <w>þisum</w> <w>dæge</w> <w>on</w> <w>soðre</w> <w>menniscnẏsse</w> <w>acen
 						<lb n="3" />ned</w> <w>wæs</w> <w>of</w> <w>þæm</w> <w>halgan</w> <w>mædene</w> <w>marian</w>. <w>Nu</w> <w>wẏlle</w> <w>we</w>
 						<lb n="4" /><w>swaþeah</w> <w>for</w> <w>ðẏses</w> <w>dæges</w> <w>mærðe</w> <w>eower</w> <w>mod</w> <w>mid</w> <w>þære</w> <w>gast
@@ -199,7 +198,7 @@
 							</choice></w>
 							<w>halige</w> <w>godspell</w> <w>hæfð</w> <w>oferswiðod</w> <w>swẏlcera</w> <w>gedwolena</w>
 						<lb n="10" /><w>andgit</w> <w>foroft</w>. <!-- nonstandard spacing --> <w>Þa</w> <w>iudeiscan</w> <w>axodon</w> <w>crist</w> <w>hwæt</w> <w>he</w> <w>wære</w>.
-						<lb n="11" /><w>Ða</w> <w>andwẏrde</w> <w>he</w> <w>him</w> <w>þus</w>. 
+						<lb n="11" /><w>Ða</w> <w>andwẏrde</w> <w>he</w> <w>him</w> <w>þus</w>.
 							<cit>
 								<foreign xml:lang="la"><w>Ego</w> <w>sum</w>
 									<w><choice>
@@ -229,7 +228,7 @@
 								<abbr>⁊</abbr>
 								<expan>and</expan>
 							</choice></w>
-							<w>angin</w> <w>ealra</w> <w>þinga</w>. <w>mid</w> <w>his</w> <w>heofonlican</w> <w>fæder</w>. 
+							<w>angin</w> <w>ealra</w> <w>þinga</w>. <w>mid</w> <w>his</w> <w>heofonlican</w> <w>fæder</w>.
 							<w><choice>
 								<abbr>⁊</abbr>
 								<expan>and</expan>
@@ -278,7 +277,7 @@
 								<expan>and</expan>
 							</choice></w>
 							<w>þæt</w>
-						<lb n="23" /><w>anginn</w> <w>oferstigan</w>. <w>mid</w> <w>dẏsilicere</w> <w>dẏrstignesse</w>. 
+						<lb n="23" /><w>anginn</w> <w>oferstigan</w>. <w>mid</w> <w>dẏsilicere</w> <w>dẏrstignesse</w>.
 							<w><choice>
 								<abbr>þonn̄</abbr>
 								<expan>þonne</expan>
@@ -317,7 +316,7 @@
 							</choice></w>
 							. <w>oðþæt</w> <w>he</w> <w>stedeleas</w> <w>fẏlþ</w> <w>mid</w> <w>mẏcclum</w> <w>wẏrsan</w>
 						<lb n="28" /><w>fẏlle</w> <!-- nonstandard spacing --> <w>swa</w> <w>he</w> <w>furðor</w> <w>stah</w>. <w>Ðreo</w> <w>þing</w> <w>sẏnd</w> <w>on</w> <w>middan</w>
-						<lb n="29" /><w>earde</w>. <w>an</w> <w>is</w> <w><!-- hwilwendlic --></w>. <w>þe</w> <w>hæfð</w> <w>ægðer</w> <w>ge</w> 
+						<lb n="29" /><w>earde</w>. <w>an</w> <w>is</w> <w><!-- hwilwendlic --></w>. <w>þe</w> <w>hæfð</w> <w>ægðer</w> <w>ge</w>
 							<w><choice>
 								<abbr>ordfrūman</abbr>
 								<expan>ordfrumman</expan>
