@@ -3,130 +3,200 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader xml:lang="en">
-		<!-- bibliographic, technical, cataloguing information, etc. NOT the main text, but essential for a valid TEI document -->
+
 		<fileDesc>
 			<titleStmt>
-				<title>Aelfric's Lives of Saints: A Digital Edition</title>
-				<!-- this is the title of the digital document, not the original text -->
-				<author>Jake Beerli</author>
-				<author>Hunter Corb</author>
-				<editor>Jake Beerli</editor>
-				<editor>Hunter Corb</editor>
+				<title>Aelfric's <i>Lives of Saints</i>: A Digital Edition</title>
+				<title>The Aelfric Scriptorium Project</title>
+				<principal>Dr. Theodore H. Leinbaugh</principal>
+				<principal>Jake Beerli</principal>
+				<principal>Hunter Corb</principal>
 				<sponsor>Transatlantic Forum for Education and Diplomacy</sponsor>
-				<funder>various</funder>
-				<!-- include Joan Gillings and others -->
+				<funder>Transatlantic Forum for Education and Diplomacy</funder>
+				<funder>Joan Gillings</funder>
 				<respStmt>
-					<name>Jake Beerli</name>
-						<resp>TEI encoder and project manager</resp>
+					<resp>Project Director:</resp>
+					<name>Dr. Theodore H. Leinbaugh</name>
+					<resp>Project Manager: </resp>
 					<name>Hunter Corb</name>
-						<resp>TEI encoder and project manager</resp>
-					<!-- the responsibility statement allows specification of jobs and those who did them -->
+					<name>Jacob Beerli</name>
 				</respStmt>
 				<respStmt>
-					<resp>Manuscription description and transcription by</resp>
-						<name>Theodore A. Leinbaugh</name>
-					<resp>Manuscript markup by</resp>
-						<name>Jake Beerli and Hunter Corb</name>
-					<resp>Old English Glossary compiled by</resp>
-						<name>Joshua Pontillo and Theodore A. Leinbaugh</name>
+					<resp>Encoding in TEI-conformant markup: </resp>
+					<name>Jacob Beerli</name>
+					<name>Hunter Corb</name>
 				</respStmt>
-				<extent/>
+				<respStmt>
+					<resp>General overview and critical apparatus: </resp>
+					<name>Dr. Theodore H. Leinbaugh</name>
+				</respStmt>
+				<respStmt>
+					<resp>Manuscription description and transcription: </resp>
+					<name>Theodore H. Leinbaugh</name>
+				</respStmt>
+				<respStmt>
+					<resp>Old English Glossary compiled by: </resp>
+					<name>Theodore H. Leinbaugh</name>
+					<name>Hunter Corb</name>
+					<name>Jacob Beerli</name>
+					<name>Robert Laffoon</name>
+				</respStmt>
 			</titleStmt>
+
+			<editionStmt>
+				<edition>Previous editions</edition>
+				<!-- include all previous editions of Aelfric's Live of Saints here -->
+			</editionStmt>
+
+			<extent>?? [megabytes]</extent>
+
 			<publicationStmt>
-				<!-- this tells you who is publishing the digital version -->
+				<authority>The Aelfric Scriptorium Project (TASP)</authority>
 				<publisher>Transatlantic Forum for Education and Diplomacy</publisher>
-				<date>2020</date>
+				<date>2021</date>
 				<availability status="restricted">
 					<license target="http://creativecommons.org/licenses/by-sa/3.0/">Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported license
 					</license>
+					<p>Contact The Aelfric Project team members for more information.</p>
 				</availability>
 			</publicationStmt>
+
 			<sourceDesc>
-				<!-- this tells you about the origial that is being encoded here -->
 				<msDesc>
-					<!-- this is vital for MSS markup; it contains the information usually found in catalogue entries and edition front matter -->
 					<msIdentifier>
-						<!-- This is  the information required to identify the manuscript being described -->
-						<settlement/>
-						<repository/>
-						<idno/>
+						<settlement ref="">London</settlement>
+						<repository ref="">British Library</repository>
+						<idno type="BL">Cotton MS Julius E VII</idno>
 					</msIdentifier>
 					<head>
-						<!-- basic statement about the MSS goes here -->
+						<p>This manuscript - Cotton MS Julius E.vii - dates to the first third of the 11th century and therefore contains
+						one of the earliest known copies of Ælfric's <i>Lives of Saints</i>, along with two other texts associated with
+						him as well asand four anonymous saints' lives (Euphrosyne, Eustace, Mary of Egypt and the Seven Sleepers).
+						It was probably made in the Benedictine Abbey of Bury St Edmunds or at Canterbury. It contains glosses and
+						corrections which appear to have been written in the early 11th century.</p>
 					</head>
 					<msContents>
+						<msItem>
+							<author ref="">Aelfric of Eynsham</author>
+							<title rend="italic" ref="">Lives of Saints</title>
+							<title rend="italic" ref="">Interrogationes Sigewulfi in Genesin</title>
+							<title rend="italic" ref="">De falsis diis</title>
+							<date notBefore="1000" notAfter="1040">1st third of 11th century</date>
+						</msItem>
 						<summary>
-							<!-- what is in the MS in terms of texts and sections -->
+							<!-- This summary is taken from the British Library catalogue entry -->
+							<p>This manuscript contains one of the earliest known copies of Ælfric's <i>Lives of Saints</i>,
+								along with two other texts associated with Ælfric and four possibly anonymous saints' lives
+								(Euphrosyne, Eustace, Mary of Egypt, and the Seven Sleepers). All of these texts were apparently
+								intended as a single volume. The table of contents (f. 4v) includes a reference to another text,
+								<title rend="italic" ref="">De duodicem abusivis</title>, was intended to be included after <i>De falsis diis</i>,
+								but it is not now present. Many of the glosses and corrections appear to have been written in the early 11th century.</p>
+							<p>Contents include:</p>
+							<list>
+								<item>ff. 3r-230r: Ælfric, <i>Lives of Saints</i></item>
+								<item>ff. 230r-238r: Ælfric, <i>Interrogationes Sigewulfi in Genesin</i></item>
+								<item>ff. 238r-240v: <i>De falsis diis</i> (imperfect)</item>
+							</list>
 						</summary>
-						<textLang>
-							<!-- languages -->
+						<textLang mainLang="oe" otherLangs="la">
+							Predominantly in Old English with a few isolated Latin words and phrases.
 						</textLang>
 					</msContents>
+
 					<physDesc>
-						<!-- elements of the physical description of the MS -->
-						<objectDesc>
-							<supportDesc>
+						<material>Parchment and ink.</material>
+						<objectDesc form="codex">
+							<supportDesc material="parch">
 								<support>
-									<!-- description of support (Note this may contain many elements) -->
-									<p/>
+									<binding>
+										<p>Binding done in-house (British Museum or British Library). Rebound in 1914.
+										</p>
+									</binding>
 								</support>
 								<extent>
-									<!-- description of size -->
-								</extent>
-								<condition>
-									<p>
-										<!-- description of damage, etc -->
+									<p>One parchment codex, measuring approximately 290 x 250 mm.
+										Fos. i + 241 (where ff. i and 1 are early modern endleaves and f. 2 is a Cottonian frontispiece).
 									</p>
-								</condition>
+								</extent>
 							</supportDesc>
 							<layoutDesc>
 								<layout>
-									<!-- how text is laid out on the page, including information about any ruling, pricking -->
+									Text is written in a single column per parchment leaf.
 								</layout>
 							</layoutDesc>
 						</objectDesc>
-						<handDesc>
-							<ab>
-								<!--a description of the writing in the manuscript -->
-							</ab>
+						<handDesc hands="2">
+							<!-- should double check number of hands thorughout MSS and must include editorial hands as well -->
+							<handNote>
+								<p>The manuscript is written in <term>English vernacular miniscule</term> and
+								<term>English Caroline miniscule.</term>
+								</p>
+							</handNote>
 						</handDesc>
 						<decoDesc>
 							<p>
-								<!-- description of the decoration in the MS -->
+								Ornate red initials throughout. Some rubrication is now grey.
 							</p>
 						</decoDesc>
 					</physDesc>
+
 					<history>
-						<!-- this tells you the origin and provenance of the MS -->
-						<summary/>
+						<!-- all historic and provenance information is taken from the British Library catalogue entry for Lives of Saints -->
 						<origin>
-							<!-- origin goes here -->
+							<p><name type="place" ref="">Southern England</name> (? the Benedictine abbey of <name type="place" ref="">Bury St Edmunds</name>,
+							or <name type="place" ref="">Canterbury</name>): probably written by one scribe, 1st half of the 11th century
+							(see Ker, <i>Catalogue</i> (1957), p. 210; Stokes, <i>English Vernacular Miniscule</i> (2014), p. 143).</p>
 						</origin>
 						<provenance>
-							<!-- provenance goes here -->
+							<p>The Benedictine abbey of <name type="place" ref="">Bury St Edmunds</name>, <date notBefore="1201" notAfter="1300">
+							13th century</date>:inscribed 'Liber sancti Ædmundi regis [et] martyris'(f. 3r).</p>
+							<p><date notBefore="1501" notAfter="1600">16th-century</date>: interlinear glosses in English added
+							(ff. 153-55, 203, 230).</p>
+							<p><name type="person" ref="">Sir Robert Bruce Cotton</name> (b. 1571, d. 1631), 1st baronet,
+							antiquary and politician: the volume was in Cotton's possession by 1621 and is recorded in the catalogue of the
+							Cottonian collection, Harley MS 6018, no. 179. This item was perhaps once bound with Cotton MS Tiberius B II, ff. 2–85.</p>
+							<p>Cotton’s collection was augmented by his son, <name type="person" ref="">Sir Thomas Cotton</name>, 2nd baronet
+							(b. 1594, d. 1662), and his grandson, <name type="person" ref="">Sir John Cotton</name> (his name is inscribed
+							on f. 3r). <name ref="">Sir John Cotton</name>, 3rd baronet (b. 1621, d. 1702) bequeathed the entire Cotton collection of books and
+							manuscripts to trustees ‘for Publick Use and Advantage’, 12 and 13 William III, c. 7. Formed one of the foundation collections of the
+							<name type="place" ref="">British Museum</name> in 1753.</p>
 						</provenance>
 					</history>
+
 					<additional>
 						<listBibl>
-							<bibl/>
+							<bibl>
+							</bibl>
 						</listBibl>
 					</additional>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
+
 		<encodingDesc>
-			<!-- This contains information about the editorial and encoding practices -->
 			<projectDesc>
-				<p>
-					<!-- goals of the project -->
-				</p>
+				<p>No edition of Aelfric’s <i>Lives of Saints</i> (LS) has yet been published electronically beyond the digitized photographs
+					found on the British Library website. The Aelfric Scriptorium Project (TASP) is working to provide facing transcriptions, translations,
+					running commentaries, glossaries, and other ancillary research materials so that these texts can be better understood
+					and properly placed within their literary, historical, theological, and cultural contexts.</p>
 			</projectDesc>
 			<editorialDecl>
-				<p>
-					<!-- editorial practices -->
-				</p>
+				<normalization>
+					<p>In an effort to preserve all spelling variants in a world without standardized spelling, we have rendered all words
+						as they appear in the MS.</p>
+					</normalization>
 			</editorialDecl>
+			<!-- should we include a <refsDecl> to show how we are creating our reference? This could be named entities, ms line/word
+			references, bibliographic references, etc. -->
 		</encodingDesc>
+
+		<revisionDesc>
+			<list>
+				<item>
+					<date when=""></date>
+				</item>
+			</list>
+		</revisionDesc>
 	</teiHeader>
 	<text>
 		<body>
@@ -159,7 +229,7 @@
 						<expan>NOSTRI</expan>
 					</choice>
 					<choice>
-						<abbr>INU<macron/></abbr>
+						<abbr>IHU<macron/></abbr>
 						<expan>IESU</expan>
 					</choice>
 					<choice>
@@ -172,7 +242,7 @@
 			<ab>
 				<lb n="1" />
 					<hi style="font-variant: smallcaps"><w><hi rend="decorInit 3lines">M</hi>
-					en</w> <w>ða</w> <w>leofestan</w> <w>hwilon</w> <w>ær</w> <w>we</w> <w>sædon</w> <w>eow</w> <w>hy</w> <w>ure</w></hi>
+					EN</w> <w>ÐA</w> <w>LEOFESTAN</w> <w>HWILON</w> <w>ÆR</w> <w>WE</w> <w>SÆDON</w> <w>EOW</w> <w>HY</w> <w>URE</w></hi>
 				<lb n="2" /><w>hælend</w> <w>crist</w> <w>on</w> <w>þisum</w> <w>dæge</w> <w>on</w> <w>soðre</w> <w>menniscnẏsse</w> <w>acen
 				<lb n="3" />ned</w> <w>wæs</w> <w>of</w> <w>þæm</w> <w>halgan</w> <w>mædene</w> <w>marian</w> · <w>Nu</w> <w>wẏlle</w> <w>we</w>
 				<lb n="4" /><w>swaþeah</w> <w>for</w> <w>ðẏses</w> <w>dæges</w> <w>mærðe</w> <w>eower</w> <w>mod</w> <w>mid</w> <w>þære</w> <w>gast
